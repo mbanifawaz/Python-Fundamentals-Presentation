@@ -1,0 +1,8 @@
+INFO: Starting simulation at 10:00:00
+WARNING: Signal 'clk' has unexpected delay.
+INFO: Simulation running...
+ERROR: Assertion failed in module 'top_module' at time 100ns.
+WARNING: Uninitialized variable 'data_in'.
+INFO: Simulation completed successfully.
+ERROR: Timeout occurred during handshake at time 200ns.
+INFO: End of log.

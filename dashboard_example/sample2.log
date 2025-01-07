@@ -1,0 +1,1000 @@
+ERROR   2025-01-07 19:22:36 Module: APIGateway Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_8841
+DEBUG   2025-01-07 19:55:52 Module: APIGateway Starting batch processing. BatchID: batch_5777, SourcePath: /data/source/folder_6075/file_2185.log, TargetPath: /data/target/folder_6995/file_6415.log
+ERROR   2025-01-07 19:27:50 Module: SchedulerService Disk read failure. DiskID: disk_4122, Sector: 1330, FilePath: /mnt/disk_4122/data/file_processed_3167
+ERROR   2025-01-07 19:29:24 Module: PaymentGateway Payment declined. TransactionID: txn_6551, Error: Invalid card number, Path: /payments/errors/txn_6551
+ERROR   2025-01-07 19:43:45 Module: StorageService Unauthorized login attempt detected. IP: 120.120.209.227, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:07:20 Module: PaymentGateway Excessive login attempts. IP: 218.108.117.123, Attempts: 5, LockFile: /auth/locks/218.108.117.123
+DEBUG   2025-01-07 19:41:43 Module: MonitoringService Transforming dataset. DatasetID: dataset_8864, RowsProcessed: 4280
+WARNING 2025-01-07 19:45:33 Module: NotificationService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: Mozilla/5.0
+DEBUG   2025-01-07 20:01:43 Module: MonitoringService Cache hit. Key: key_4698, CachePath: /cache/cache_8625/key_4698
+DEBUG   2025-01-07 19:45:22 Module: SchedulerService Data aggregation completed. AggregatedRows: 4118, FilePath: /data/processed/processed_1752
+DEBUG   2025-01-07 19:15:09 Module: APIGateway Transforming dataset. DatasetID: dataset_1625, RowsProcessed: 859
+ERROR   2025-01-07 19:21:33 Module: AuthService Unauthorized login attempt detected. IP: 184.58.52.83, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:19:59 Module: APIGateway Disk write failure. DiskID: disk_7148, Sector: 1258, FilePath: /mnt/disk_7148/data/file_processed_6987
+DEBUG   2025-01-07 19:35:34 Module: NotificationService Cache write. Key: key_4887, Value: 60 entries, WritePath: /cache/cache_3225/key_4887
+ERROR   2025-01-07 19:56:50 Module: AuthService Payment declined. TransactionID: txn_2218, Error: Invalid card number, Path: /payments/errors/txn_2218
+ERROR   2025-01-07 19:55:17 Module: SchedulerService Disk write failure. DiskID: disk_2436, Sector: 4722, FilePath: /mnt/disk_2436/data/file_processed_6273
+ERROR   2025-01-07 19:41:49 Module: FileService Unauthorized login attempt detected. IP: 54.205.227.236, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:08:58 Module: DataProcessor Cache hit. Key: key_7888, CachePath: /cache/cache_9083/key_7888
+WARNING 2025-01-07 19:31:49 Module: MonitoringService Packet loss detected. NodeID: node_6859, LossPercentage: 1.74%, Path: /network/node_6859
+ERROR   2025-01-07 19:34:00 Module: CacheService Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_3120
+DEBUG   2025-01-07 19:08:01 Module: SchedulerService Cache write. Key: key_1198, Value: 83 entries, WritePath: /cache/cache_4578/key_1198
+ERROR   2025-01-07 20:01:22 Module: MonitoringService Payment declined. TransactionID: txn_2219, Error: Invalid card number, Path: /payments/errors/txn_2219
+ERROR   2025-01-07 19:18:31 Module: FileService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_9815
+WARNING 2025-01-07 19:05:03 Module: MonitoringService Excessive login attempts. IP: 255.219.215.139, Attempts: 8, LockFile: /auth/locks/255.219.215.139
+DEBUG   2025-01-07 20:03:17 Module: SecurityService Starting batch processing. BatchID: batch_5452, SourcePath: /data/source/folder_2055/file_1238.log, TargetPath: /data/target/folder_8280/file_6740.log
+INFO    2025-01-07 19:21:40 Module: PaymentGateway Request received. Endpoint: /api/query, Params: id=param_3509&status=active, Status: 200, ResponseTime: 1410ms
+ERROR   2025-01-07 19:15:50 Module: CacheService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_3063
+DEBUG   2025-01-07 19:24:21 Module: PaymentGateway Starting batch processing. BatchID: batch_9844, SourcePath: /data/source/folder_2716/file_5193.log, TargetPath: /data/target/folder_9825/file_6465.log
+DEBUG   2025-01-07 19:38:35 Module: APIGateway Cache hit. Key: key_1287, CachePath: /cache/cache_1086/key_1287
+DEBUG   2025-01-07 19:45:23 Module: SecurityService Cache hit. Key: key_1392, CachePath: /cache/cache_9928/key_1392
+ERROR   2025-01-07 19:23:03 Module: PaymentGateway Unauthorized login attempt detected. IP: 164.144.205.49, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:48:48 Module: MonitoringService Disk read failure. DiskID: disk_5488, Sector: 102, FilePath: /mnt/disk_5488/data/file_processed_5432
+WARNING 2025-01-07 19:09:31 Module: NotificationService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: curl/7.64.1
+INFO    2025-01-07 19:21:25 Module: FileService Request received. Endpoint: /api/submit, Params: id=param_9699&status=pending, Status: 200, ResponseTime: 300ms
+DEBUG   2025-01-07 19:29:45 Module: PaymentGateway Starting batch processing. BatchID: batch_5417, SourcePath: /data/source/folder_5069/file_1189.log, TargetPath: /data/target/folder_4049/file_5219.log
+ERROR   2025-01-07 19:39:01 Module: SchedulerService Unauthorized login attempt detected. IP: 216.220.45.69, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:50:14 Module: DataProcessor High memory usage detected. Memory: 8%, Node: node_2842, Application: app_86
+WARNING 2025-01-07 19:17:36 Module: CacheService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: Mozilla/5.0
+WARNING 2025-01-07 19:09:46 Module: AuthService Packet loss detected. NodeID: node_3889, LossPercentage: 4.75%, Path: /network/node_3889
+ERROR   2025-01-07 19:14:32 Module: NotificationService Disk write failure. DiskID: disk_6807, Sector: 2784, FilePath: /mnt/disk_6807/data/file_processed_4611
+WARNING 2025-01-07 19:29:51 Module: MonitoringService Disk utilization high. DiskID: disk_7526, Used: 31%, Threshold: 90%, Path: /mnt/disk_7526
+INFO    2025-01-07 19:49:50 Module: APIGateway Metrics collected. CPU: 36%, Memory: 63%, Disk: 51%, Nodes: 18
+WARNING 2025-01-07 19:37:30 Module: StorageService High memory usage detected. Memory: 64%, Node: node_5556, Application: app_64
+ERROR   2025-01-07 19:52:57 Module: AuthService Disk write failure. DiskID: disk_5641, Sector: 2794, FilePath: /mnt/disk_5641/data/file_processed_3648
+INFO    2025-01-07 19:52:19 Module: SecurityService Request received. Endpoint: /api/delete, Params: id=param_2017&status=pending, Status: 200, ResponseTime: 1706ms
+INFO    2025-01-07 19:28:22 Module: CacheService Scheduled task completed. TaskID: task_7687, Details: Clean up temp files from path /temp/folder_1800/file_8835.log
+INFO    2025-01-07 20:00:07 Module: StorageService Request received. Endpoint: /api/query, Params: id=param_3824&status=active, Status: 200, ResponseTime: 4160ms
+WARNING 2025-01-07 19:09:52 Module: SecurityService Excessive login attempts. IP: 211.16.215.26, Attempts: 8, LockFile: /auth/locks/211.16.215.26
+ERROR   2025-01-07 19:23:23 Module: NotificationService Disk write failure. DiskID: disk_8879, Sector: 3030, FilePath: /mnt/disk_8879/data/file_processed_8276
+DEBUG   2025-01-07 19:24:50 Module: AuthService Cache hit. Key: key_8797, CachePath: /cache/cache_3125/key_8797
+DEBUG   2025-01-07 20:03:20 Module: DataProcessor Cache hit. Key: key_6124, CachePath: /cache/cache_2942/key_6124
+INFO    2025-01-07 19:46:55 Module: SchedulerService Logout successful. UserID: 7956, SessionPath: /users/7956/sessions/session_3099
+DEBUG   2025-01-07 19:29:32 Module: MonitoringService Data aggregation completed. AggregatedRows: 7776, FilePath: /data/processed/processed_8456
+WARNING 2025-01-07 19:49:55 Module: NotificationService High memory usage detected. Memory: 30%, Node: node_4665, Application: app_62
+INFO    2025-01-07 19:16:14 Module: MonitoringService Logout successful. UserID: 3102, SessionPath: /users/3102/sessions/session_5557
+INFO    2025-01-07 19:45:41 Module: NotificationService User login successful. UserID: 8734, IP: 1.44.158.224, SessionPath: /users/8734/sessions/session_3120
+DEBUG   2025-01-07 19:21:15 Module: MonitoringService Starting batch processing. BatchID: batch_6244, SourcePath: /data/source/folder_6784/file_7120.log, TargetPath: /data/target/folder_2956/file_6777.log
+WARNING 2025-01-07 19:15:52 Module: CacheService High memory usage detected. Memory: 76%, Node: node_2691, Application: app_80
+DEBUG   2025-01-07 19:54:21 Module: PaymentGateway Cache write. Key: key_5551, Value: 15 entries, WritePath: /cache/cache_1104/key_5551
+DEBUG   2025-01-07 19:11:59 Module: APIGateway Cache write. Key: key_7340, Value: 76 entries, WritePath: /cache/cache_8881/key_7340
+ERROR   2025-01-07 20:01:55 Module: DataProcessor Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_1602
+ERROR   2025-01-07 19:42:25 Module: MonitoringService Disk write failure. DiskID: disk_5359, Sector: 4869, FilePath: /mnt/disk_5359/data/file_processed_3623
+DEBUG   2025-01-07 19:18:05 Module: AuthService Data aggregation completed. AggregatedRows: 7141, FilePath: /data/processed/processed_7553
+INFO    2025-01-07 19:56:41 Module: NotificationService Logout successful. UserID: 1889, SessionPath: /users/1889/sessions/session_1444
+ERROR   2025-01-07 19:57:45 Module: SecurityService Disk write failure. DiskID: disk_2238, Sector: 2546, FilePath: /mnt/disk_2238/data/file_processed_8500
+WARNING 2025-01-07 19:33:54 Module: CacheService Packet loss detected. NodeID: node_4264, LossPercentage: 4.43%, Path: /network/node_4264
+INFO    2025-01-07 19:12:11 Module: DataProcessor User login successful. UserID: 7462, IP: 193.207.129.67, SessionPath: /users/7462/sessions/session_3269
+DEBUG   2025-01-07 19:25:54 Module: StorageService Transforming dataset. DatasetID: dataset_4847, RowsProcessed: 364
+INFO    2025-01-07 19:14:07 Module: SecurityService Request received. Endpoint: /api/fetch, Params: id=param_2937&status=failed, Status: 200, ResponseTime: 2118ms
+WARNING 2025-01-07 19:48:28 Module: MonitoringService Packet loss detected. NodeID: node_7086, LossPercentage: 3.65%, Path: /network/node_7086
+WARNING 2025-01-07 20:00:53 Module: PaymentGateway Excessive login attempts. IP: 131.82.101.35, Attempts: 2, LockFile: /auth/locks/131.82.101.35
+DEBUG   2025-01-07 19:40:58 Module: StorageService Cache write. Key: key_4878, Value: 85 entries, WritePath: /cache/cache_9154/key_4878
+DEBUG   2025-01-07 19:08:41 Module: APIGateway Starting batch processing. BatchID: batch_8879, SourcePath: /data/source/folder_4558/file_2822.log, TargetPath: /data/target/folder_2486/file_4975.log
+WARNING 2025-01-07 19:20:12 Module: MonitoringService Excessive login attempts. IP: 254.248.209.75, Attempts: 9, LockFile: /auth/locks/254.248.209.75
+DEBUG   2025-01-07 19:45:08 Module: MonitoringService Cache hit. Key: key_5734, CachePath: /cache/cache_1119/key_5734
+ERROR   2025-01-07 19:55:17 Module: MonitoringService Payment declined. TransactionID: txn_5515, Error: Invalid card number, Path: /payments/errors/txn_5515
+DEBUG   2025-01-07 19:15:28 Module: PaymentGateway Starting batch processing. BatchID: batch_1409, SourcePath: /data/source/folder_3807/file_4675.log, TargetPath: /data/target/folder_8343/file_5610.log
+INFO    2025-01-07 19:48:09 Module: APIGateway Request received. Endpoint: /api/submit, Params: id=param_9457&status=pending, Status: 200, ResponseTime: 4028ms
+WARNING 2025-01-07 19:35:52 Module: DataProcessor Packet loss detected. NodeID: node_6571, LossPercentage: 4.36%, Path: /network/node_6571
+ERROR   2025-01-07 20:02:14 Module: DataProcessor Unauthorized login attempt detected. IP: 188.113.85.55, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:29:19 Module: FileService Metrics collected. CPU: 77%, Memory: 62%, Disk: 23%, Nodes: 22
+ERROR   2025-01-07 19:57:24 Module: CacheService Disk read failure. DiskID: disk_8717, Sector: 3650, FilePath: /mnt/disk_8717/data/file_processed_9415
+WARNING 2025-01-07 20:01:25 Module: DataProcessor High memory usage detected. Memory: 98%, Node: node_4445, Application: app_96
+INFO    2025-01-07 19:31:05 Module: NotificationService Scheduled task completed. TaskID: task_1704, Details: Clean up temp files from path /temp/folder_5112/file_6772.log
+WARNING 2025-01-07 19:46:10 Module: StorageService High memory usage detected. Memory: 6%, Node: node_3492, Application: app_7
+DEBUG   2025-01-07 19:09:41 Module: PaymentGateway Transforming dataset. DatasetID: dataset_7554, RowsProcessed: 3302
+DEBUG   2025-01-07 19:34:31 Module: APIGateway Cache write. Key: key_5050, Value: 93 entries, WritePath: /cache/cache_1885/key_5050
+ERROR   2025-01-07 19:10:56 Module: StorageService Disk read failure. DiskID: disk_1953, Sector: 3702, FilePath: /mnt/disk_1953/data/file_processed_4173
+WARNING 2025-01-07 19:31:44 Module: SecurityService Packet loss detected. NodeID: node_6928, LossPercentage: 4.25%, Path: /network/node_6928
+INFO    2025-01-07 19:43:18 Module: SchedulerService User login successful. UserID: 2004, IP: 35.144.177.94, SessionPath: /users/2004/sessions/session_7972
+INFO    2025-01-07 19:19:00 Module: CacheService User login successful. UserID: 4920, IP: 84.187.32.121, SessionPath: /users/4920/sessions/session_3948
+DEBUG   2025-01-07 20:00:53 Module: SecurityService Cache hit. Key: key_4404, CachePath: /cache/cache_3330/key_4404
+ERROR   2025-01-07 19:56:42 Module: PaymentGateway Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_6956
+ERROR   2025-01-07 19:05:12 Module: DataProcessor Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_8756
+WARNING 2025-01-07 19:53:02 Module: NotificationService Packet loss detected. NodeID: node_6107, LossPercentage: 2.25%, Path: /network/node_6107
+DEBUG   2025-01-07 19:13:19 Module: CacheService Data aggregation completed. AggregatedRows: 5573, FilePath: /data/processed/processed_6816
+ERROR   2025-01-07 19:32:41 Module: DataProcessor Unauthorized login attempt detected. IP: 80.234.85.87, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:49:21 Module: DataProcessor Starting batch processing. BatchID: batch_9157, SourcePath: /data/source/folder_5348/file_7429.log, TargetPath: /data/target/folder_1170/file_5157.log
+ERROR   2025-01-07 19:16:33 Module: SchedulerService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_7094
+DEBUG   2025-01-07 19:19:06 Module: PaymentGateway Data aggregation completed. AggregatedRows: 4653, FilePath: /data/processed/processed_6569
+WARNING 2025-01-07 19:12:04 Module: CacheService Excessive login attempts. IP: 37.254.92.246, Attempts: 6, LockFile: /auth/locks/37.254.92.246
+ERROR   2025-01-07 19:54:47 Module: PaymentGateway Unauthorized login attempt detected. IP: 55.200.240.156, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:13:30 Module: APIGateway High memory usage detected. Memory: 69%, Node: node_7649, Application: app_73
+WARNING 2025-01-07 19:37:56 Module: NotificationService Disk utilization high. DiskID: disk_4548, Used: 84%, Threshold: 90%, Path: /mnt/disk_4548
+WARNING 2025-01-07 19:33:33 Module: FileService Packet loss detected. NodeID: node_4171, LossPercentage: 3.53%, Path: /network/node_4171
+DEBUG   2025-01-07 19:43:46 Module: SecurityService Transforming dataset. DatasetID: dataset_9337, RowsProcessed: 3942
+WARNING 2025-01-07 19:49:09 Module: NotificationService Disk utilization high. DiskID: disk_1634, Used: 20%, Threshold: 90%, Path: /mnt/disk_1634
+DEBUG   2025-01-07 19:21:55 Module: MonitoringService Data aggregation completed. AggregatedRows: 5955, FilePath: /data/processed/processed_2367
+WARNING 2025-01-07 19:24:32 Module: AuthService Packet loss detected. NodeID: node_8435, LossPercentage: 4.76%, Path: /network/node_8435
+WARNING 2025-01-07 19:18:09 Module: SchedulerService Excessive login attempts. IP: 245.125.187.149, Attempts: 6, LockFile: /auth/locks/245.125.187.149
+WARNING 2025-01-07 20:04:08 Module: FileService Excessive login attempts. IP: 142.87.119.20, Attempts: 3, LockFile: /auth/locks/142.87.119.20
+ERROR   2025-01-07 19:43:21 Module: PaymentGateway Disk write failure. DiskID: disk_7462, Sector: 1276, FilePath: /mnt/disk_7462/data/file_processed_1753
+INFO    2025-01-07 19:06:49 Module: SecurityService Logout successful. UserID: 6734, SessionPath: /users/6734/sessions/session_3438
+DEBUG   2025-01-07 19:16:46 Module: MonitoringService Data aggregation completed. AggregatedRows: 7812, FilePath: /data/processed/processed_8206
+DEBUG   2025-01-07 19:20:23 Module: SchedulerService Starting batch processing. BatchID: batch_1049, SourcePath: /data/source/folder_4233/file_1663.log, TargetPath: /data/target/folder_3614/file_6013.log
+INFO    2025-01-07 19:35:01 Module: MonitoringService Metrics collected. CPU: 69%, Memory: 74%, Disk: 79%, Nodes: 17
+DEBUG   2025-01-07 20:04:46 Module: SecurityService Data aggregation completed. AggregatedRows: 1255, FilePath: /data/processed/processed_2959
+INFO    2025-01-07 19:39:12 Module: MonitoringService Scheduled task completed. TaskID: task_8632, Details: Clean up temp files from path /temp/folder_2308/file_6385.log
+ERROR   2025-01-07 19:54:38 Module: SecurityService Disk read failure. DiskID: disk_6123, Sector: 2765, FilePath: /mnt/disk_6123/data/file_processed_4642
+INFO    2025-01-07 19:37:27 Module: StorageService Metrics collected. CPU: 53%, Memory: 85%, Disk: 100%, Nodes: 14
+DEBUG   2025-01-07 19:26:09 Module: SecurityService Cache write. Key: key_9669, Value: 2 entries, WritePath: /cache/cache_5164/key_9669
+INFO    2025-01-07 19:15:50 Module: SchedulerService Scheduled task completed. TaskID: task_4653, Details: Clean up temp files from path /temp/folder_2531/file_2539.log
+DEBUG   2025-01-07 19:19:08 Module: SchedulerService Cache hit. Key: key_8772, CachePath: /cache/cache_7837/key_8772
+ERROR   2025-01-07 19:56:17 Module: FileService Disk write failure. DiskID: disk_3846, Sector: 2604, FilePath: /mnt/disk_3846/data/file_processed_4359
+INFO    2025-01-07 19:50:44 Module: SchedulerService Metrics collected. CPU: 10%, Memory: 62%, Disk: 4%, Nodes: 14
+DEBUG   2025-01-07 19:43:38 Module: MonitoringService Transforming dataset. DatasetID: dataset_8449, RowsProcessed: 2451
+DEBUG   2025-01-07 19:37:17 Module: SchedulerService Cache write. Key: key_2813, Value: 31 entries, WritePath: /cache/cache_2988/key_2813
+ERROR   2025-01-07 19:12:05 Module: SchedulerService Disk read failure. DiskID: disk_1281, Sector: 3593, FilePath: /mnt/disk_1281/data/file_processed_4065
+INFO    2025-01-07 19:57:18 Module: NotificationService Metrics collected. CPU: 75%, Memory: 35%, Disk: 64%, Nodes: 21
+WARNING 2025-01-07 19:34:49 Module: APIGateway Excessive login attempts. IP: 63.230.20.211, Attempts: 8, LockFile: /auth/locks/63.230.20.211
+DEBUG   2025-01-07 19:31:47 Module: StorageService Cache write. Key: key_7331, Value: 77 entries, WritePath: /cache/cache_5565/key_7331
+INFO    2025-01-07 19:56:12 Module: MonitoringService Logout successful. UserID: 8034, SessionPath: /users/8034/sessions/session_9157
+ERROR   2025-01-07 19:55:35 Module: DataProcessor Disk write failure. DiskID: disk_2341, Sector: 169, FilePath: /mnt/disk_2341/data/file_processed_6420
+INFO    2025-01-07 19:17:52 Module: SchedulerService Scheduled task completed. TaskID: task_9047, Details: Clean up temp files from path /temp/folder_2232/file_3529.log
+DEBUG   2025-01-07 19:14:20 Module: SchedulerService Transforming dataset. DatasetID: dataset_4160, RowsProcessed: 2827
+DEBUG   2025-01-07 20:01:14 Module: NotificationService Transforming dataset. DatasetID: dataset_2347, RowsProcessed: 1132
+DEBUG   2025-01-07 19:23:06 Module: CacheService Data aggregation completed. AggregatedRows: 4871, FilePath: /data/processed/processed_8342
+ERROR   2025-01-07 19:22:04 Module: SchedulerService Disk write failure. DiskID: disk_1717, Sector: 1619, FilePath: /mnt/disk_1717/data/file_processed_3731
+INFO    2025-01-07 19:11:55 Module: PaymentGateway Request received. Endpoint: /api/submit, Params: id=param_1019&status=pending, Status: 200, ResponseTime: 3804ms
+INFO    2025-01-07 19:19:31 Module: AuthService Logout successful. UserID: 8652, SessionPath: /users/8652/sessions/session_4244
+DEBUG   2025-01-07 19:30:22 Module: PaymentGateway Cache write. Key: key_8602, Value: 82 entries, WritePath: /cache/cache_4703/key_8602
+ERROR   2025-01-07 19:12:41 Module: DataProcessor Disk write failure. DiskID: disk_4604, Sector: 4638, FilePath: /mnt/disk_4604/data/file_processed_6990
+ERROR   2025-01-07 20:00:35 Module: DataProcessor Disk read failure. DiskID: disk_1990, Sector: 4635, FilePath: /mnt/disk_1990/data/file_processed_3464
+ERROR   2025-01-07 19:18:41 Module: AuthService Payment declined. TransactionID: txn_3526, Error: Invalid card number, Path: /payments/errors/txn_3526
+DEBUG   2025-01-07 19:31:03 Module: FileService Cache hit. Key: key_5698, CachePath: /cache/cache_6793/key_5698
+ERROR   2025-01-07 19:34:52 Module: CacheService Disk write failure. DiskID: disk_3003, Sector: 898, FilePath: /mnt/disk_3003/data/file_processed_5951
+WARNING 2025-01-07 19:42:45 Module: APIGateway Deprecated API usage detected. Endpoint: /api/delete, UserAgent: PostmanRuntime/7.29.0
+ERROR   2025-01-07 19:52:09 Module: StorageService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_6804
+INFO    2025-01-07 19:58:21 Module: StorageService User login successful. UserID: 9728, IP: 151.122.126.64, SessionPath: /users/9728/sessions/session_6871
+INFO    2025-01-07 20:01:41 Module: MonitoringService Logout successful. UserID: 9881, SessionPath: /users/9881/sessions/session_8942
+ERROR   2025-01-07 19:53:59 Module: SchedulerService Unauthorized login attempt detected. IP: 196.250.106.208, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:44:45 Module: StorageService Logout successful. UserID: 7598, SessionPath: /users/7598/sessions/session_7775
+WARNING 2025-01-07 20:02:53 Module: AuthService Disk utilization high. DiskID: disk_6883, Used: 86%, Threshold: 90%, Path: /mnt/disk_6883
+WARNING 2025-01-07 19:16:57 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:11:47 Module: CacheService Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_7978
+WARNING 2025-01-07 19:32:39 Module: PaymentGateway Disk utilization high. DiskID: disk_4160, Used: 44%, Threshold: 90%, Path: /mnt/disk_4160
+DEBUG   2025-01-07 19:48:06 Module: DataProcessor Transforming dataset. DatasetID: dataset_8800, RowsProcessed: 3170
+INFO    2025-01-07 19:19:11 Module: SecurityService Scheduled task completed. TaskID: task_3821, Details: Clean up temp files from path /temp/folder_2272/file_5682.log
+INFO    2025-01-07 19:18:32 Module: FileService Metrics collected. CPU: 4%, Memory: 80%, Disk: 99%, Nodes: 22
+WARNING 2025-01-07 19:11:42 Module: AuthService High memory usage detected. Memory: 12%, Node: node_3180, Application: app_79
+INFO    2025-01-07 19:18:37 Module: AuthService Metrics collected. CPU: 19%, Memory: 73%, Disk: 75%, Nodes: 32
+ERROR   2025-01-07 19:56:29 Module: DataProcessor Unauthorized login attempt detected. IP: 91.200.124.125, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:12:13 Module: SchedulerService Unauthorized login attempt detected. IP: 14.211.32.130, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:34:31 Module: PaymentGateway High memory usage detected. Memory: 63%, Node: node_1145, Application: app_100
+WARNING 2025-01-07 19:20:04 Module: FileService Excessive login attempts. IP: 205.205.82.229, Attempts: 10, LockFile: /auth/locks/205.205.82.229
+DEBUG   2025-01-07 19:25:54 Module: AuthService Cache write. Key: key_1674, Value: 4 entries, WritePath: /cache/cache_3686/key_1674
+ERROR   2025-01-07 19:49:21 Module: MonitoringService Payment declined. TransactionID: txn_3722, Error: Invalid card number, Path: /payments/errors/txn_3722
+ERROR   2025-01-07 19:19:40 Module: NotificationService Disk read failure. DiskID: disk_3702, Sector: 4816, FilePath: /mnt/disk_3702/data/file_processed_5438
+DEBUG   2025-01-07 19:22:02 Module: NotificationService Cache hit. Key: key_1424, CachePath: /cache/cache_9738/key_1424
+INFO    2025-01-07 19:23:08 Module: StorageService Request received. Endpoint: /api/delete, Params: id=param_6560&status=failed, Status: 200, ResponseTime: 3190ms
+ERROR   2025-01-07 19:30:45 Module: AuthService Payment declined. TransactionID: txn_4634, Error: Invalid card number, Path: /payments/errors/txn_4634
+INFO    2025-01-07 19:32:27 Module: DataProcessor Request received. Endpoint: /api/query, Params: id=param_9925&status=failed, Status: 200, ResponseTime: 4687ms
+ERROR   2025-01-07 19:12:12 Module: DataProcessor Disk read failure. DiskID: disk_7688, Sector: 3118, FilePath: /mnt/disk_7688/data/file_processed_2369
+ERROR   2025-01-07 19:57:09 Module: PaymentGateway Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_5683
+INFO    2025-01-07 19:34:10 Module: SecurityService Metrics collected. CPU: 54%, Memory: 81%, Disk: 45%, Nodes: 21
+ERROR   2025-01-07 19:34:35 Module: NotificationService Payment declined. TransactionID: txn_9245, Error: Invalid card number, Path: /payments/errors/txn_9245
+DEBUG   2025-01-07 19:09:16 Module: PaymentGateway Cache hit. Key: key_4871, CachePath: /cache/cache_2993/key_4871
+WARNING 2025-01-07 19:44:06 Module: SchedulerService Packet loss detected. NodeID: node_5161, LossPercentage: 1.2%, Path: /network/node_5161
+INFO    2025-01-07 19:37:51 Module: SecurityService Scheduled task completed. TaskID: task_7101, Details: Clean up temp files from path /temp/folder_1198/file_6683.log
+WARNING 2025-01-07 19:26:15 Module: NotificationService Excessive login attempts. IP: 64.107.88.55, Attempts: 7, LockFile: /auth/locks/64.107.88.55
+ERROR   2025-01-07 19:28:59 Module: APIGateway Disk read failure. DiskID: disk_1772, Sector: 3737, FilePath: /mnt/disk_1772/data/file_processed_8817
+WARNING 2025-01-07 19:14:52 Module: DataProcessor Excessive login attempts. IP: 184.165.162.20, Attempts: 6, LockFile: /auth/locks/184.165.162.20
+ERROR   2025-01-07 19:12:15 Module: APIGateway Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_8612
+WARNING 2025-01-07 19:18:04 Module: CacheService High memory usage detected. Memory: 58%, Node: node_9222, Application: app_59
+DEBUG   2025-01-07 19:59:18 Module: SecurityService Transforming dataset. DatasetID: dataset_7068, RowsProcessed: 4941
+DEBUG   2025-01-07 19:57:37 Module: CacheService Starting batch processing. BatchID: batch_2595, SourcePath: /data/source/folder_8824/file_3474.log, TargetPath: /data/target/folder_9510/file_1547.log
+DEBUG   2025-01-07 19:31:59 Module: APIGateway Transforming dataset. DatasetID: dataset_5687, RowsProcessed: 4151
+WARNING 2025-01-07 19:45:51 Module: SchedulerService High memory usage detected. Memory: 8%, Node: node_7525, Application: app_9
+ERROR   2025-01-07 19:05:28 Module: SchedulerService Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_8051
+WARNING 2025-01-07 20:04:50 Module: AuthService Packet loss detected. NodeID: node_6281, LossPercentage: 3.51%, Path: /network/node_6281
+WARNING 2025-01-07 19:47:31 Module: CacheService Disk utilization high. DiskID: disk_9292, Used: 19%, Threshold: 90%, Path: /mnt/disk_9292
+WARNING 2025-01-07 19:58:15 Module: APIGateway Excessive login attempts. IP: 114.232.74.170, Attempts: 1, LockFile: /auth/locks/114.232.74.170
+ERROR   2025-01-07 19:45:26 Module: APIGateway Disk read failure. DiskID: disk_1645, Sector: 2004, FilePath: /mnt/disk_1645/data/file_processed_8522
+INFO    2025-01-07 19:27:54 Module: CacheService Metrics collected. CPU: 53%, Memory: 75%, Disk: 65%, Nodes: 49
+DEBUG   2025-01-07 19:10:35 Module: SecurityService Data aggregation completed. AggregatedRows: 5170, FilePath: /data/processed/processed_3213
+INFO    2025-01-07 19:08:35 Module: MonitoringService User login successful. UserID: 8277, IP: 72.38.201.244, SessionPath: /users/8277/sessions/session_1862
+DEBUG   2025-01-07 19:30:22 Module: StorageService Starting batch processing. BatchID: batch_3005, SourcePath: /data/source/folder_4240/file_2899.log, TargetPath: /data/target/folder_9516/file_8118.log
+INFO    2025-01-07 19:21:17 Module: StorageService User login successful. UserID: 1308, IP: 18.161.160.40, SessionPath: /users/1308/sessions/session_8627
+DEBUG   2025-01-07 19:26:49 Module: CacheService Cache hit. Key: key_2910, CachePath: /cache/cache_2511/key_2910
+ERROR   2025-01-07 19:59:18 Module: PaymentGateway Unauthorized login attempt detected. IP: 47.23.203.50, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:45:58 Module: FileService Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+WARNING 2025-01-07 19:51:13 Module: CacheService Excessive login attempts. IP: 204.217.22.227, Attempts: 7, LockFile: /auth/locks/204.217.22.227
+DEBUG   2025-01-07 19:17:40 Module: NotificationService Transforming dataset. DatasetID: dataset_6060, RowsProcessed: 2913
+DEBUG   2025-01-07 19:05:43 Module: CacheService Transforming dataset. DatasetID: dataset_8272, RowsProcessed: 1028
+ERROR   2025-01-07 19:33:47 Module: StorageService Disk write failure. DiskID: disk_6382, Sector: 4321, FilePath: /mnt/disk_6382/data/file_processed_3251
+DEBUG   2025-01-07 19:40:09 Module: AuthService Data aggregation completed. AggregatedRows: 4056, FilePath: /data/processed/processed_9271
+WARNING 2025-01-07 20:03:11 Module: SecurityService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+WARNING 2025-01-07 20:00:26 Module: APIGateway High memory usage detected. Memory: 44%, Node: node_4163, Application: app_29
+DEBUG   2025-01-07 19:26:29 Module: NotificationService Cache hit. Key: key_6518, CachePath: /cache/cache_8286/key_6518
+ERROR   2025-01-07 20:04:10 Module: DataProcessor Unauthorized login attempt detected. IP: 199.237.50.201, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:35:19 Module: SecurityService Disk utilization high. DiskID: disk_4981, Used: 41%, Threshold: 90%, Path: /mnt/disk_4981
+INFO    2025-01-07 19:12:13 Module: StorageService Request received. Endpoint: /api/submit, Params: id=param_1043&status=active, Status: 200, ResponseTime: 1455ms
+ERROR   2025-01-07 19:52:52 Module: StorageService Payment declined. TransactionID: txn_7502, Error: Invalid card number, Path: /payments/errors/txn_7502
+ERROR   2025-01-07 19:56:30 Module: CacheService Unauthorized login attempt detected. IP: 41.233.31.138, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:25:36 Module: DataProcessor Request received. Endpoint: /api/submit, Params: id=param_7282&status=pending, Status: 200, ResponseTime: 1589ms
+ERROR   2025-01-07 19:39:43 Module: StorageService Payment declined. TransactionID: txn_7649, Error: Invalid card number, Path: /payments/errors/txn_7649
+INFO    2025-01-07 19:45:05 Module: AuthService Request received. Endpoint: /api/submit, Params: id=param_2291&status=failed, Status: 200, ResponseTime: 4393ms
+ERROR   2025-01-07 19:13:58 Module: PaymentGateway Unauthorized login attempt detected. IP: 82.53.144.8, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:21:14 Module: StorageService Excessive login attempts. IP: 21.217.164.3, Attempts: 8, LockFile: /auth/locks/21.217.164.3
+INFO    2025-01-07 19:08:39 Module: MonitoringService User login successful. UserID: 7741, IP: 14.84.85.108, SessionPath: /users/7741/sessions/session_1667
+DEBUG   2025-01-07 19:14:08 Module: CacheService Cache hit. Key: key_8018, CachePath: /cache/cache_9460/key_8018
+ERROR   2025-01-07 19:11:37 Module: SecurityService Disk write failure. DiskID: disk_9698, Sector: 2840, FilePath: /mnt/disk_9698/data/file_processed_5008
+INFO    2025-01-07 20:02:04 Module: SchedulerService Scheduled task completed. TaskID: task_8214, Details: Clean up temp files from path /temp/folder_3552/file_8753.log
+ERROR   2025-01-07 19:19:31 Module: AuthService Unauthorized login attempt detected. IP: 140.133.153.86, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:07:31 Module: StorageService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: Mozilla/5.0
+INFO    2025-01-07 19:12:10 Module: FileService User login successful. UserID: 5720, IP: 19.64.36.21, SessionPath: /users/5720/sessions/session_8239
+DEBUG   2025-01-07 19:32:56 Module: AuthService Transforming dataset. DatasetID: dataset_2446, RowsProcessed: 3218
+ERROR   2025-01-07 19:43:02 Module: NotificationService Payment declined. TransactionID: txn_2749, Error: Invalid card number, Path: /payments/errors/txn_2749
+INFO    2025-01-07 19:10:14 Module: SecurityService User login successful. UserID: 8933, IP: 66.114.122.153, SessionPath: /users/8933/sessions/session_4440
+INFO    2025-01-07 19:50:45 Module: MonitoringService Logout successful. UserID: 9024, SessionPath: /users/9024/sessions/session_9205
+ERROR   2025-01-07 19:32:52 Module: SecurityService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_3373
+INFO    2025-01-07 19:40:34 Module: CacheService User login successful. UserID: 2776, IP: 94.221.92.42, SessionPath: /users/2776/sessions/session_7010
+DEBUG   2025-01-07 19:42:48 Module: DataProcessor Cache hit. Key: key_6319, CachePath: /cache/cache_9394/key_6319
+INFO    2025-01-07 19:50:22 Module: SchedulerService Logout successful. UserID: 1711, SessionPath: /users/1711/sessions/session_1402
+INFO    2025-01-07 19:12:51 Module: CacheService Logout successful. UserID: 7832, SessionPath: /users/7832/sessions/session_3660
+WARNING 2025-01-07 19:13:16 Module: SchedulerService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:21:48 Module: DataProcessor Unauthorized login attempt detected. IP: 77.22.179.129, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:49:36 Module: PaymentGateway Unauthorized login attempt detected. IP: 96.72.190.215, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:36:47 Module: DataProcessor User login successful. UserID: 6976, IP: 142.106.134.221, SessionPath: /users/6976/sessions/session_4567
+INFO    2025-01-07 19:59:33 Module: FileService Scheduled task completed. TaskID: task_2109, Details: Clean up temp files from path /temp/folder_6694/file_1034.log
+WARNING 2025-01-07 19:11:01 Module: CacheService High memory usage detected. Memory: 74%, Node: node_5498, Application: app_32
+INFO    2025-01-07 19:09:10 Module: SecurityService Scheduled task completed. TaskID: task_9415, Details: Clean up temp files from path /temp/folder_6695/file_6559.log
+ERROR   2025-01-07 19:32:34 Module: PaymentGateway Disk write failure. DiskID: disk_2129, Sector: 583, FilePath: /mnt/disk_2129/data/file_processed_3718
+DEBUG   2025-01-07 20:04:26 Module: SchedulerService Data aggregation completed. AggregatedRows: 9673, FilePath: /data/processed/processed_5045
+WARNING 2025-01-07 19:51:51 Module: AuthService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: curl/7.64.1
+INFO    2025-01-07 19:37:52 Module: NotificationService Metrics collected. CPU: 40%, Memory: 71%, Disk: 63%, Nodes: 42
+DEBUG   2025-01-07 20:03:35 Module: FileService Cache hit. Key: key_3653, CachePath: /cache/cache_9325/key_3653
+WARNING 2025-01-07 19:42:08 Module: SchedulerService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: Mozilla/5.0
+WARNING 2025-01-07 19:25:12 Module: APIGateway High memory usage detected. Memory: 67%, Node: node_7141, Application: app_85
+ERROR   2025-01-07 19:27:39 Module: APIGateway Disk write failure. DiskID: disk_4123, Sector: 2967, FilePath: /mnt/disk_4123/data/file_processed_8914
+DEBUG   2025-01-07 19:34:41 Module: MonitoringService Data aggregation completed. AggregatedRows: 5215, FilePath: /data/processed/processed_6763
+ERROR   2025-01-07 19:55:44 Module: AuthService Disk write failure. DiskID: disk_1306, Sector: 866, FilePath: /mnt/disk_1306/data/file_processed_9109
+DEBUG   2025-01-07 19:50:25 Module: StorageService Data aggregation completed. AggregatedRows: 7621, FilePath: /data/processed/processed_2616
+WARNING 2025-01-07 19:56:06 Module: FileService Excessive login attempts. IP: 255.108.154.179, Attempts: 3, LockFile: /auth/locks/255.108.154.179
+DEBUG   2025-01-07 19:28:58 Module: SecurityService Transforming dataset. DatasetID: dataset_9045, RowsProcessed: 4030
+WARNING 2025-01-07 19:13:49 Module: StorageService Disk utilization high. DiskID: disk_6411, Used: 87%, Threshold: 90%, Path: /mnt/disk_6411
+INFO    2025-01-07 19:35:22 Module: AuthService Request received. Endpoint: /api/delete, Params: id=param_8961&status=pending, Status: 200, ResponseTime: 3820ms
+INFO    2025-01-07 19:44:20 Module: SchedulerService Request received. Endpoint: /api/query, Params: id=param_3335&status=pending, Status: 200, ResponseTime: 4239ms
+ERROR   2025-01-07 19:46:51 Module: SecurityService Disk write failure. DiskID: disk_1876, Sector: 2148, FilePath: /mnt/disk_1876/data/file_processed_7167
+DEBUG   2025-01-07 19:49:27 Module: NotificationService Starting batch processing. BatchID: batch_2311, SourcePath: /data/source/folder_3028/file_1409.log, TargetPath: /data/target/folder_1001/file_8224.log
+DEBUG   2025-01-07 19:30:11 Module: SecurityService Cache write. Key: key_8978, Value: 52 entries, WritePath: /cache/cache_2230/key_8978
+WARNING 2025-01-07 19:50:02 Module: CacheService Disk utilization high. DiskID: disk_1779, Used: 50%, Threshold: 90%, Path: /mnt/disk_1779
+ERROR   2025-01-07 19:42:03 Module: AuthService Disk write failure. DiskID: disk_5020, Sector: 4671, FilePath: /mnt/disk_5020/data/file_processed_9992
+ERROR   2025-01-07 19:37:39 Module: NotificationService Payment declined. TransactionID: txn_7174, Error: Invalid card number, Path: /payments/errors/txn_7174
+INFO    2025-01-07 19:49:55 Module: AuthService Metrics collected. CPU: 28%, Memory: 32%, Disk: 50%, Nodes: 48
+INFO    2025-01-07 19:58:14 Module: SecurityService User login successful. UserID: 3685, IP: 111.96.100.84, SessionPath: /users/3685/sessions/session_9608
+DEBUG   2025-01-07 19:28:33 Module: PaymentGateway Cache hit. Key: key_6495, CachePath: /cache/cache_9529/key_6495
+ERROR   2025-01-07 19:30:54 Module: NotificationService Disk read failure. DiskID: disk_3088, Sector: 834, FilePath: /mnt/disk_3088/data/file_processed_5852
+INFO    2025-01-07 19:48:19 Module: CacheService User login successful. UserID: 5537, IP: 217.49.134.48, SessionPath: /users/5537/sessions/session_7816
+DEBUG   2025-01-07 19:20:56 Module: MonitoringService Transforming dataset. DatasetID: dataset_4491, RowsProcessed: 129
+DEBUG   2025-01-07 19:42:18 Module: PaymentGateway Transforming dataset. DatasetID: dataset_3866, RowsProcessed: 2710
+DEBUG   2025-01-07 20:02:25 Module: SchedulerService Transforming dataset. DatasetID: dataset_1338, RowsProcessed: 1236
+INFO    2025-01-07 19:14:25 Module: SchedulerService Logout successful. UserID: 7980, SessionPath: /users/7980/sessions/session_5306
+INFO    2025-01-07 19:07:20 Module: CacheService Metrics collected. CPU: 8%, Memory: 80%, Disk: 39%, Nodes: 34
+WARNING 2025-01-07 19:10:16 Module: MonitoringService Packet loss detected. NodeID: node_6436, LossPercentage: 2.75%, Path: /network/node_6436
+ERROR   2025-01-07 19:23:38 Module: FileService Disk write failure. DiskID: disk_8552, Sector: 4329, FilePath: /mnt/disk_8552/data/file_processed_3814
+WARNING 2025-01-07 19:47:41 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: Mozilla/5.0
+ERROR   2025-01-07 19:16:45 Module: SchedulerService Unauthorized login attempt detected. IP: 104.43.49.171, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:58:17 Module: SchedulerService Cache write. Key: key_5292, Value: 65 entries, WritePath: /cache/cache_7360/key_5292
+WARNING 2025-01-07 19:08:42 Module: AuthService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:18:42 Module: AuthService Unauthorized login attempt detected. IP: 70.167.199.53, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:58:20 Module: AuthService Payment declined. TransactionID: txn_4969, Error: Invalid card number, Path: /payments/errors/txn_4969
+DEBUG   2025-01-07 20:01:59 Module: DataProcessor Cache hit. Key: key_5141, CachePath: /cache/cache_1204/key_5141
+INFO    2025-01-07 19:52:48 Module: APIGateway Scheduled task completed. TaskID: task_1651, Details: Clean up temp files from path /temp/folder_6781/file_2294.log
+WARNING 2025-01-07 19:21:45 Module: NotificationService High memory usage detected. Memory: 34%, Node: node_3699, Application: app_96
+DEBUG   2025-01-07 20:03:41 Module: MonitoringService Starting batch processing. BatchID: batch_9659, SourcePath: /data/source/folder_8621/file_7922.log, TargetPath: /data/target/folder_9235/file_9301.log
+ERROR   2025-01-07 20:03:32 Module: SecurityService Unauthorized login attempt detected. IP: 174.98.128.216, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 20:04:11 Module: APIGateway Excessive login attempts. IP: 153.91.7.234, Attempts: 9, LockFile: /auth/locks/153.91.7.234
+DEBUG   2025-01-07 19:14:04 Module: MonitoringService Transforming dataset. DatasetID: dataset_8335, RowsProcessed: 3180
+INFO    2025-01-07 19:22:38 Module: AuthService Scheduled task completed. TaskID: task_5249, Details: Clean up temp files from path /temp/folder_4676/file_5924.log
+INFO    2025-01-07 19:48:45 Module: SecurityService Scheduled task completed. TaskID: task_3998, Details: Clean up temp files from path /temp/folder_1659/file_5660.log
+DEBUG   2025-01-07 19:10:54 Module: SchedulerService Cache hit. Key: key_4253, CachePath: /cache/cache_5842/key_4253
+DEBUG   2025-01-07 19:47:50 Module: PaymentGateway Data aggregation completed. AggregatedRows: 2356, FilePath: /data/processed/processed_6326
+WARNING 2025-01-07 19:10:34 Module: APIGateway Excessive login attempts. IP: 194.241.105.70, Attempts: 8, LockFile: /auth/locks/194.241.105.70
+INFO    2025-01-07 19:49:21 Module: NotificationService Request received. Endpoint: /api/submit, Params: id=param_9705&status=active, Status: 200, ResponseTime: 1788ms
+ERROR   2025-01-07 19:59:26 Module: MonitoringService Unauthorized login attempt detected. IP: 120.56.125.218, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:26:54 Module: DataProcessor Unauthorized login attempt detected. IP: 76.96.96.41, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:34:30 Module: SchedulerService Transforming dataset. DatasetID: dataset_3804, RowsProcessed: 2533
+DEBUG   2025-01-07 19:18:07 Module: CacheService Transforming dataset. DatasetID: dataset_1471, RowsProcessed: 4735
+WARNING 2025-01-07 19:06:54 Module: SchedulerService Packet loss detected. NodeID: node_3762, LossPercentage: 2.53%, Path: /network/node_3762
+INFO    2025-01-07 19:32:00 Module: StorageService Request received. Endpoint: /api/submit, Params: id=param_5496&status=pending, Status: 200, ResponseTime: 1545ms
+INFO    2025-01-07 19:32:03 Module: SchedulerService Logout successful. UserID: 4633, SessionPath: /users/4633/sessions/session_4137
+INFO    2025-01-07 19:31:47 Module: AuthService Scheduled task completed. TaskID: task_1820, Details: Clean up temp files from path /temp/folder_5296/file_5942.log
+DEBUG   2025-01-07 19:53:07 Module: StorageService Data aggregation completed. AggregatedRows: 3389, FilePath: /data/processed/processed_1345
+WARNING 2025-01-07 19:11:37 Module: CacheService Disk utilization high. DiskID: disk_1280, Used: 93%, Threshold: 90%, Path: /mnt/disk_1280
+WARNING 2025-01-07 19:57:26 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: curl/7.64.1
+DEBUG   2025-01-07 19:17:25 Module: NotificationService Starting batch processing. BatchID: batch_6756, SourcePath: /data/source/folder_3515/file_9012.log, TargetPath: /data/target/folder_9278/file_3251.log
+ERROR   2025-01-07 19:58:04 Module: PaymentGateway Disk write failure. DiskID: disk_2188, Sector: 3015, FilePath: /mnt/disk_2188/data/file_processed_6187
+ERROR   2025-01-07 20:02:57 Module: APIGateway Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_1567
+ERROR   2025-01-07 19:52:20 Module: AuthService Disk read failure. DiskID: disk_8560, Sector: 2278, FilePath: /mnt/disk_8560/data/file_processed_8390
+DEBUG   2025-01-07 19:56:51 Module: DataProcessor Transforming dataset. DatasetID: dataset_8896, RowsProcessed: 1805
+INFO    2025-01-07 19:52:15 Module: SecurityService Metrics collected. CPU: 42%, Memory: 56%, Disk: 16%, Nodes: 15
+ERROR   2025-01-07 20:03:26 Module: FileService Unauthorized login attempt detected. IP: 255.242.104.162, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:27:42 Module: SchedulerService Unauthorized login attempt detected. IP: 82.58.134.80, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:26:02 Module: CacheService Scheduled task completed. TaskID: task_2355, Details: Clean up temp files from path /temp/folder_5373/file_5134.log
+INFO    2025-01-07 19:36:37 Module: CacheService Request received. Endpoint: /api/fetch, Params: id=param_7946&status=pending, Status: 200, ResponseTime: 194ms
+INFO    2025-01-07 19:06:27 Module: CacheService Request received. Endpoint: /api/query, Params: id=param_5993&status=active, Status: 200, ResponseTime: 3790ms
+DEBUG   2025-01-07 19:45:34 Module: AuthService Cache hit. Key: key_9992, CachePath: /cache/cache_2628/key_9992
+ERROR   2025-01-07 20:04:00 Module: AuthService Disk write failure. DiskID: disk_7125, Sector: 1174, FilePath: /mnt/disk_7125/data/file_processed_4034
+ERROR   2025-01-07 19:29:16 Module: CacheService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_5355
+WARNING 2025-01-07 20:03:22 Module: SchedulerService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: curl/7.64.1
+WARNING 2025-01-07 19:43:57 Module: NotificationService High memory usage detected. Memory: 38%, Node: node_4008, Application: app_95
+ERROR   2025-01-07 20:04:10 Module: DataProcessor Disk write failure. DiskID: disk_3866, Sector: 2049, FilePath: /mnt/disk_3866/data/file_processed_2357
+DEBUG   2025-01-07 19:53:29 Module: APIGateway Cache write. Key: key_5946, Value: 89 entries, WritePath: /cache/cache_1043/key_5946
+INFO    2025-01-07 19:10:40 Module: CacheService Scheduled task completed. TaskID: task_8239, Details: Clean up temp files from path /temp/folder_9062/file_7641.log
+WARNING 2025-01-07 19:11:59 Module: PaymentGateway Packet loss detected. NodeID: node_8096, LossPercentage: 4.69%, Path: /network/node_8096
+INFO    2025-01-07 20:01:31 Module: PaymentGateway Logout successful. UserID: 9613, SessionPath: /users/9613/sessions/session_9546
+DEBUG   2025-01-07 19:30:09 Module: StorageService Transforming dataset. DatasetID: dataset_1857, RowsProcessed: 2356
+INFO    2025-01-07 19:11:53 Module: CacheService Request received. Endpoint: /api/fetch, Params: id=param_5250&status=active, Status: 200, ResponseTime: 1809ms
+DEBUG   2025-01-07 19:21:52 Module: SchedulerService Transforming dataset. DatasetID: dataset_6286, RowsProcessed: 4206
+DEBUG   2025-01-07 19:15:57 Module: MonitoringService Cache write. Key: key_5943, Value: 96 entries, WritePath: /cache/cache_7484/key_5943
+INFO    2025-01-07 19:59:54 Module: APIGateway Metrics collected. CPU: 84%, Memory: 60%, Disk: 70%, Nodes: 21
+WARNING 2025-01-07 19:25:02 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: Mozilla/5.0
+INFO    2025-01-07 19:10:04 Module: CacheService Scheduled task completed. TaskID: task_3342, Details: Clean up temp files from path /temp/folder_5350/file_4090.log
+DEBUG   2025-01-07 19:13:06 Module: AuthService Cache write. Key: key_4440, Value: 71 entries, WritePath: /cache/cache_6280/key_4440
+WARNING 2025-01-07 19:41:01 Module: SecurityService Disk utilization high. DiskID: disk_3436, Used: 47%, Threshold: 90%, Path: /mnt/disk_3436
+ERROR   2025-01-07 19:07:36 Module: CacheService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_5219
+ERROR   2025-01-07 19:35:32 Module: AuthService Disk read failure. DiskID: disk_8386, Sector: 2333, FilePath: /mnt/disk_8386/data/file_processed_5341
+ERROR   2025-01-07 20:03:06 Module: NotificationService Disk write failure. DiskID: disk_7217, Sector: 4705, FilePath: /mnt/disk_7217/data/file_processed_8615
+ERROR   2025-01-07 19:22:24 Module: SchedulerService Payment declined. TransactionID: txn_4637, Error: Invalid card number, Path: /payments/errors/txn_4637
+INFO    2025-01-07 19:15:46 Module: SecurityService Metrics collected. CPU: 10%, Memory: 95%, Disk: 13%, Nodes: 43
+DEBUG   2025-01-07 19:35:58 Module: NotificationService Data aggregation completed. AggregatedRows: 2667, FilePath: /data/processed/processed_1371
+INFO    2025-01-07 19:22:33 Module: MonitoringService User login successful. UserID: 1250, IP: 136.65.164.54, SessionPath: /users/1250/sessions/session_2525
+WARNING 2025-01-07 19:19:53 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/query, UserAgent: Mozilla/5.0
+DEBUG   2025-01-07 19:26:22 Module: StorageService Cache hit. Key: key_6066, CachePath: /cache/cache_3124/key_6066
+DEBUG   2025-01-07 20:04:22 Module: CacheService Starting batch processing. BatchID: batch_4773, SourcePath: /data/source/folder_6382/file_5546.log, TargetPath: /data/target/folder_3827/file_6300.log
+DEBUG   2025-01-07 20:01:57 Module: CacheService Transforming dataset. DatasetID: dataset_1280, RowsProcessed: 2342
+DEBUG   2025-01-07 19:55:04 Module: FileService Starting batch processing. BatchID: batch_1650, SourcePath: /data/source/folder_1402/file_8245.log, TargetPath: /data/target/folder_1971/file_4227.log
+WARNING 2025-01-07 19:39:57 Module: APIGateway High memory usage detected. Memory: 88%, Node: node_9653, Application: app_46
+DEBUG   2025-01-07 19:34:14 Module: MonitoringService Cache write. Key: key_2050, Value: 88 entries, WritePath: /cache/cache_3243/key_2050
+ERROR   2025-01-07 19:51:06 Module: SchedulerService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_7393
+DEBUG   2025-01-07 20:04:33 Module: SecurityService Cache write. Key: key_4059, Value: 60 entries, WritePath: /cache/cache_6666/key_4059
+WARNING 2025-01-07 19:11:18 Module: PaymentGateway Excessive login attempts. IP: 179.109.5.151, Attempts: 4, LockFile: /auth/locks/179.109.5.151
+ERROR   2025-01-07 19:28:04 Module: MonitoringService Unauthorized login attempt detected. IP: 2.29.242.239, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:50:41 Module: StorageService Metrics collected. CPU: 19%, Memory: 97%, Disk: 27%, Nodes: 34
+INFO    2025-01-07 19:31:20 Module: APIGateway Logout successful. UserID: 8489, SessionPath: /users/8489/sessions/session_5876
+DEBUG   2025-01-07 19:46:51 Module: StorageService Starting batch processing. BatchID: batch_7686, SourcePath: /data/source/folder_2865/file_4455.log, TargetPath: /data/target/folder_9014/file_8821.log
+INFO    2025-01-07 19:58:09 Module: CacheService Metrics collected. CPU: 62%, Memory: 18%, Disk: 62%, Nodes: 24
+WARNING 2025-01-07 19:30:48 Module: FileService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: Mozilla/5.0
+ERROR   2025-01-07 19:15:46 Module: SecurityService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_1568
+DEBUG   2025-01-07 19:49:11 Module: PaymentGateway Data aggregation completed. AggregatedRows: 6454, FilePath: /data/processed/processed_1323
+ERROR   2025-01-07 19:36:39 Module: APIGateway Disk write failure. DiskID: disk_5628, Sector: 247, FilePath: /mnt/disk_5628/data/file_processed_3248
+ERROR   2025-01-07 19:55:12 Module: MonitoringService Disk read failure. DiskID: disk_9479, Sector: 2194, FilePath: /mnt/disk_9479/data/file_processed_1507
+WARNING 2025-01-07 19:49:24 Module: NotificationService Excessive login attempts. IP: 64.185.159.4, Attempts: 10, LockFile: /auth/locks/64.185.159.4
+WARNING 2025-01-07 19:16:00 Module: MonitoringService Disk utilization high. DiskID: disk_9110, Used: 60%, Threshold: 90%, Path: /mnt/disk_9110
+DEBUG   2025-01-07 19:35:32 Module: AuthService Transforming dataset. DatasetID: dataset_7614, RowsProcessed: 4134
+DEBUG   2025-01-07 19:51:28 Module: APIGateway Cache write. Key: key_1208, Value: 54 entries, WritePath: /cache/cache_8180/key_1208
+WARNING 2025-01-07 19:43:31 Module: FileService High memory usage detected. Memory: 95%, Node: node_5154, Application: app_14
+DEBUG   2025-01-07 19:15:09 Module: DataProcessor Cache write. Key: key_9624, Value: 64 entries, WritePath: /cache/cache_7615/key_9624
+INFO    2025-01-07 19:14:48 Module: CacheService Metrics collected. CPU: 42%, Memory: 59%, Disk: 18%, Nodes: 21
+ERROR   2025-01-07 19:20:43 Module: StorageService Unauthorized login attempt detected. IP: 230.0.225.5, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:56:18 Module: SchedulerService Packet loss detected. NodeID: node_7283, LossPercentage: 0.39%, Path: /network/node_7283
+INFO    2025-01-07 19:26:06 Module: NotificationService Logout successful. UserID: 1425, SessionPath: /users/1425/sessions/session_1927
+DEBUG   2025-01-07 19:52:34 Module: SecurityService Starting batch processing. BatchID: batch_2873, SourcePath: /data/source/folder_5592/file_8005.log, TargetPath: /data/target/folder_2980/file_2893.log
+ERROR   2025-01-07 19:49:38 Module: SecurityService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_5564
+DEBUG   2025-01-07 19:59:51 Module: APIGateway Cache write. Key: key_1904, Value: 69 entries, WritePath: /cache/cache_8262/key_1904
+INFO    2025-01-07 19:11:23 Module: SecurityService Request received. Endpoint: /api/submit, Params: id=param_8096&status=pending, Status: 200, ResponseTime: 1562ms
+INFO    2025-01-07 19:24:48 Module: NotificationService Scheduled task completed. TaskID: task_4989, Details: Clean up temp files from path /temp/folder_9740/file_1918.log
+ERROR   2025-01-07 19:56:46 Module: SchedulerService Disk write failure. DiskID: disk_1245, Sector: 4560, FilePath: /mnt/disk_1245/data/file_processed_5087
+WARNING 2025-01-07 19:35:44 Module: CacheService Packet loss detected. NodeID: node_8183, LossPercentage: 4.44%, Path: /network/node_8183
+INFO    2025-01-07 19:31:21 Module: NotificationService Logout successful. UserID: 9483, SessionPath: /users/9483/sessions/session_6214
+INFO    2025-01-07 19:12:10 Module: CacheService Request received. Endpoint: /api/submit, Params: id=param_8702&status=active, Status: 200, ResponseTime: 2927ms
+INFO    2025-01-07 19:34:39 Module: PaymentGateway Logout successful. UserID: 6497, SessionPath: /users/6497/sessions/session_5115
+DEBUG   2025-01-07 19:53:21 Module: APIGateway Cache write. Key: key_1051, Value: 81 entries, WritePath: /cache/cache_8545/key_1051
+WARNING 2025-01-07 19:53:00 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: PostmanRuntime/7.29.0
+DEBUG   2025-01-07 19:25:41 Module: MonitoringService Data aggregation completed. AggregatedRows: 2662, FilePath: /data/processed/processed_8686
+DEBUG   2025-01-07 19:23:33 Module: PaymentGateway Cache write. Key: key_3434, Value: 37 entries, WritePath: /cache/cache_2657/key_3434
+INFO    2025-01-07 19:17:08 Module: AuthService Request received. Endpoint: /api/fetch, Params: id=param_1787&status=active, Status: 200, ResponseTime: 155ms
+INFO    2025-01-07 19:31:59 Module: APIGateway Metrics collected. CPU: 64%, Memory: 99%, Disk: 62%, Nodes: 20
+WARNING 2025-01-07 19:22:18 Module: StorageService High memory usage detected. Memory: 40%, Node: node_1650, Application: app_5
+WARNING 2025-01-07 19:25:38 Module: FileService Excessive login attempts. IP: 150.39.96.187, Attempts: 2, LockFile: /auth/locks/150.39.96.187
+WARNING 2025-01-07 19:06:23 Module: MonitoringService Packet loss detected. NodeID: node_7600, LossPercentage: 3.24%, Path: /network/node_7600
+ERROR   2025-01-07 19:20:36 Module: SchedulerService Disk read failure. DiskID: disk_8721, Sector: 4499, FilePath: /mnt/disk_8721/data/file_processed_4928
+ERROR   2025-01-07 20:03:50 Module: MonitoringService Disk write failure. DiskID: disk_7219, Sector: 2455, FilePath: /mnt/disk_7219/data/file_processed_7113
+DEBUG   2025-01-07 19:57:01 Module: MonitoringService Starting batch processing. BatchID: batch_7918, SourcePath: /data/source/folder_1677/file_3096.log, TargetPath: /data/target/folder_6164/file_4112.log
+ERROR   2025-01-07 20:03:38 Module: MonitoringService Disk read failure. DiskID: disk_5478, Sector: 3173, FilePath: /mnt/disk_5478/data/file_processed_5744
+ERROR   2025-01-07 19:26:43 Module: APIGateway Payment declined. TransactionID: txn_2387, Error: Invalid card number, Path: /payments/errors/txn_2387
+ERROR   2025-01-07 19:05:18 Module: FileService Unauthorized login attempt detected. IP: 233.253.29.223, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:14:58 Module: SchedulerService Logout successful. UserID: 4290, SessionPath: /users/4290/sessions/session_5783
+ERROR   2025-01-07 19:12:00 Module: PaymentGateway Unauthorized login attempt detected. IP: 240.234.226.35, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:29:34 Module: AuthService Cache hit. Key: key_5307, CachePath: /cache/cache_6249/key_5307
+ERROR   2025-01-07 19:50:59 Module: SecurityService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_1624
+WARNING 2025-01-07 19:26:10 Module: StorageService Excessive login attempts. IP: 80.104.153.28, Attempts: 10, LockFile: /auth/locks/80.104.153.28
+ERROR   2025-01-07 19:09:12 Module: APIGateway Disk write failure. DiskID: disk_8251, Sector: 3098, FilePath: /mnt/disk_8251/data/file_processed_5710
+WARNING 2025-01-07 19:52:38 Module: DataProcessor High memory usage detected. Memory: 66%, Node: node_8064, Application: app_49
+ERROR   2025-01-07 20:00:18 Module: StorageService Payment declined. TransactionID: txn_2760, Error: Invalid card number, Path: /payments/errors/txn_2760
+INFO    2025-01-07 19:21:51 Module: SecurityService User login successful. UserID: 7185, IP: 217.124.43.63, SessionPath: /users/7185/sessions/session_1554
+ERROR   2025-01-07 20:03:01 Module: DataProcessor Disk write failure. DiskID: disk_4723, Sector: 636, FilePath: /mnt/disk_4723/data/file_processed_4065
+DEBUG   2025-01-07 19:27:15 Module: DataProcessor Starting batch processing. BatchID: batch_8007, SourcePath: /data/source/folder_2286/file_5775.log, TargetPath: /data/target/folder_6902/file_5170.log
+INFO    2025-01-07 19:10:07 Module: AuthService Logout successful. UserID: 8481, SessionPath: /users/8481/sessions/session_7488
+DEBUG   2025-01-07 19:36:36 Module: DataProcessor Starting batch processing. BatchID: batch_6033, SourcePath: /data/source/folder_8448/file_8125.log, TargetPath: /data/target/folder_7633/file_4301.log
+DEBUG   2025-01-07 19:38:41 Module: MonitoringService Transforming dataset. DatasetID: dataset_8478, RowsProcessed: 3033
+DEBUG   2025-01-07 19:17:00 Module: SchedulerService Transforming dataset. DatasetID: dataset_1774, RowsProcessed: 2660
+DEBUG   2025-01-07 19:46:54 Module: MonitoringService Starting batch processing. BatchID: batch_4175, SourcePath: /data/source/folder_7914/file_7156.log, TargetPath: /data/target/folder_9035/file_9668.log
+DEBUG   2025-01-07 19:35:49 Module: AuthService Starting batch processing. BatchID: batch_6317, SourcePath: /data/source/folder_4303/file_2358.log, TargetPath: /data/target/folder_4589/file_3747.log
+ERROR   2025-01-07 19:44:28 Module: APIGateway Unauthorized login attempt detected. IP: 207.12.198.182, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:13:52 Module: AuthService Excessive login attempts. IP: 110.221.172.13, Attempts: 9, LockFile: /auth/locks/110.221.172.13
+DEBUG   2025-01-07 20:02:01 Module: PaymentGateway Cache hit. Key: key_9468, CachePath: /cache/cache_5313/key_9468
+WARNING 2025-01-07 19:23:35 Module: PaymentGateway Packet loss detected. NodeID: node_6722, LossPercentage: 1.41%, Path: /network/node_6722
+DEBUG   2025-01-07 19:05:41 Module: StorageService Cache write. Key: key_5088, Value: 70 entries, WritePath: /cache/cache_4883/key_5088
+WARNING 2025-01-07 19:48:05 Module: PaymentGateway Excessive login attempts. IP: 100.175.177.83, Attempts: 10, LockFile: /auth/locks/100.175.177.83
+INFO    2025-01-07 19:21:21 Module: AuthService User login successful. UserID: 8888, IP: 191.177.120.206, SessionPath: /users/8888/sessions/session_5337
+INFO    2025-01-07 19:54:09 Module: APIGateway User login successful. UserID: 7840, IP: 77.130.187.223, SessionPath: /users/7840/sessions/session_9566
+INFO    2025-01-07 19:32:51 Module: FileService User login successful. UserID: 1494, IP: 9.117.41.213, SessionPath: /users/1494/sessions/session_4676
+DEBUG   2025-01-07 19:12:39 Module: StorageService Cache write. Key: key_1350, Value: 74 entries, WritePath: /cache/cache_4450/key_1350
+ERROR   2025-01-07 19:25:33 Module: APIGateway Disk write failure. DiskID: disk_7480, Sector: 4238, FilePath: /mnt/disk_7480/data/file_processed_5234
+WARNING 2025-01-07 20:04:29 Module: MonitoringService Disk utilization high. DiskID: disk_8143, Used: 91%, Threshold: 90%, Path: /mnt/disk_8143
+ERROR   2025-01-07 19:17:45 Module: APIGateway Disk read failure. DiskID: disk_8529, Sector: 4422, FilePath: /mnt/disk_8529/data/file_processed_9958
+INFO    2025-01-07 19:09:52 Module: FileService Metrics collected. CPU: 25%, Memory: 85%, Disk: 96%, Nodes: 39
+DEBUG   2025-01-07 20:02:52 Module: MonitoringService Data aggregation completed. AggregatedRows: 1968, FilePath: /data/processed/processed_3916
+DEBUG   2025-01-07 19:42:32 Module: DataProcessor Starting batch processing. BatchID: batch_4241, SourcePath: /data/source/folder_2035/file_7315.log, TargetPath: /data/target/folder_8649/file_7166.log
+DEBUG   2025-01-07 19:34:50 Module: CacheService Transforming dataset. DatasetID: dataset_3040, RowsProcessed: 634
+WARNING 2025-01-07 19:30:17 Module: APIGateway Packet loss detected. NodeID: node_8508, LossPercentage: 3.04%, Path: /network/node_8508
+WARNING 2025-01-07 19:25:14 Module: SecurityService High memory usage detected. Memory: 40%, Node: node_1217, Application: app_26
+DEBUG   2025-01-07 19:22:17 Module: AuthService Cache hit. Key: key_9789, CachePath: /cache/cache_3250/key_9789
+DEBUG   2025-01-07 19:30:42 Module: SecurityService Transforming dataset. DatasetID: dataset_6383, RowsProcessed: 3360
+ERROR   2025-01-07 20:02:08 Module: FileService Disk read failure. DiskID: disk_9046, Sector: 373, FilePath: /mnt/disk_9046/data/file_processed_9309
+INFO    2025-01-07 19:23:49 Module: DataProcessor Scheduled task completed. TaskID: task_1561, Details: Clean up temp files from path /temp/folder_2426/file_2272.log
+ERROR   2025-01-07 19:57:44 Module: MonitoringService Payment declined. TransactionID: txn_4271, Error: Invalid card number, Path: /payments/errors/txn_4271
+ERROR   2025-01-07 19:42:57 Module: AuthService Disk read failure. DiskID: disk_4505, Sector: 4670, FilePath: /mnt/disk_4505/data/file_processed_7107
+INFO    2025-01-07 19:38:49 Module: SchedulerService Scheduled task completed. TaskID: task_8740, Details: Clean up temp files from path /temp/folder_7991/file_7381.log
+WARNING 2025-01-07 19:10:00 Module: NotificationService Excessive login attempts. IP: 237.108.215.208, Attempts: 7, LockFile: /auth/locks/237.108.215.208
+DEBUG   2025-01-07 19:11:47 Module: StorageService Transforming dataset. DatasetID: dataset_6089, RowsProcessed: 1712
+INFO    2025-01-07 19:49:42 Module: CacheService Request received. Endpoint: /api/fetch, Params: id=param_9201&status=failed, Status: 200, ResponseTime: 2974ms
+ERROR   2025-01-07 19:59:34 Module: MonitoringService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_7863
+WARNING 2025-01-07 19:28:45 Module: SecurityService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: PostmanRuntime/7.29.0
+INFO    2025-01-07 19:15:55 Module: PaymentGateway Request received. Endpoint: /api/submit, Params: id=param_3129&status=pending, Status: 200, ResponseTime: 2773ms
+INFO    2025-01-07 19:38:44 Module: StorageService User login successful. UserID: 2389, IP: 104.61.83.69, SessionPath: /users/2389/sessions/session_9591
+ERROR   2025-01-07 20:02:10 Module: CacheService Disk read failure. DiskID: disk_5457, Sector: 2572, FilePath: /mnt/disk_5457/data/file_processed_2485
+WARNING 2025-01-07 19:15:39 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/submit, UserAgent: Mozilla/5.0
+ERROR   2025-01-07 19:18:05 Module: DataProcessor Disk read failure. DiskID: disk_3068, Sector: 4471, FilePath: /mnt/disk_3068/data/file_processed_9519
+DEBUG   2025-01-07 19:51:04 Module: SecurityService Data aggregation completed. AggregatedRows: 8681, FilePath: /data/processed/processed_3443
+INFO    2025-01-07 19:43:23 Module: PaymentGateway Logout successful. UserID: 2518, SessionPath: /users/2518/sessions/session_9029
+ERROR   2025-01-07 19:18:06 Module: FileService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_1601
+ERROR   2025-01-07 19:20:43 Module: APIGateway Unauthorized login attempt detected. IP: 189.189.152.243, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:13:32 Module: NotificationService Disk read failure. DiskID: disk_5030, Sector: 645, FilePath: /mnt/disk_5030/data/file_processed_7125
+ERROR   2025-01-07 19:10:23 Module: CacheService Payment declined. TransactionID: txn_9434, Error: Invalid card number, Path: /payments/errors/txn_9434
+WARNING 2025-01-07 19:42:51 Module: SecurityService Disk utilization high. DiskID: disk_2703, Used: 46%, Threshold: 90%, Path: /mnt/disk_2703
+WARNING 2025-01-07 19:11:54 Module: StorageService High memory usage detected. Memory: 19%, Node: node_6708, Application: app_58
+DEBUG   2025-01-07 19:36:20 Module: SchedulerService Cache write. Key: key_9396, Value: 97 entries, WritePath: /cache/cache_4205/key_9396
+DEBUG   2025-01-07 19:43:09 Module: CacheService Starting batch processing. BatchID: batch_6245, SourcePath: /data/source/folder_1272/file_3450.log, TargetPath: /data/target/folder_7124/file_6435.log
+INFO    2025-01-07 19:05:40 Module: DataProcessor Scheduled task completed. TaskID: task_8405, Details: Clean up temp files from path /temp/folder_4263/file_6829.log
+WARNING 2025-01-07 20:04:11 Module: FileService Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+WARNING 2025-01-07 19:56:35 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+DEBUG   2025-01-07 19:12:52 Module: SecurityService Cache write. Key: key_6972, Value: 93 entries, WritePath: /cache/cache_6112/key_6972
+ERROR   2025-01-07 20:00:08 Module: NotificationService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_6424
+INFO    2025-01-07 19:59:49 Module: SchedulerService Metrics collected. CPU: 73%, Memory: 48%, Disk: 37%, Nodes: 15
+WARNING 2025-01-07 19:21:02 Module: SchedulerService Packet loss detected. NodeID: node_3721, LossPercentage: 0.44%, Path: /network/node_3721
+WARNING 2025-01-07 20:04:41 Module: StorageService Packet loss detected. NodeID: node_2663, LossPercentage: 3.61%, Path: /network/node_2663
+DEBUG   2025-01-07 19:40:23 Module: FileService Data aggregation completed. AggregatedRows: 5079, FilePath: /data/processed/processed_3937
+DEBUG   2025-01-07 19:07:47 Module: CacheService Transforming dataset. DatasetID: dataset_8914, RowsProcessed: 1065
+INFO    2025-01-07 19:25:26 Module: NotificationService Metrics collected. CPU: 16%, Memory: 46%, Disk: 36%, Nodes: 35
+INFO    2025-01-07 19:36:25 Module: PaymentGateway User login successful. UserID: 4396, IP: 10.153.182.101, SessionPath: /users/4396/sessions/session_1231
+ERROR   2025-01-07 19:59:11 Module: MonitoringService Disk read failure. DiskID: disk_8208, Sector: 1988, FilePath: /mnt/disk_8208/data/file_processed_1134
+DEBUG   2025-01-07 19:31:48 Module: SecurityService Transforming dataset. DatasetID: dataset_7304, RowsProcessed: 1195
+INFO    2025-01-07 19:25:09 Module: SchedulerService User login successful. UserID: 1125, IP: 230.146.167.76, SessionPath: /users/1125/sessions/session_5568
+DEBUG   2025-01-07 19:29:45 Module: MonitoringService Cache write. Key: key_8825, Value: 8 entries, WritePath: /cache/cache_4491/key_8825
+INFO    2025-01-07 19:48:22 Module: APIGateway Scheduled task completed. TaskID: task_7602, Details: Clean up temp files from path /temp/folder_7735/file_3021.log
+DEBUG   2025-01-07 19:47:51 Module: SchedulerService Starting batch processing. BatchID: batch_6896, SourcePath: /data/source/folder_3145/file_3487.log, TargetPath: /data/target/folder_1349/file_9000.log
+DEBUG   2025-01-07 19:40:56 Module: PaymentGateway Data aggregation completed. AggregatedRows: 3696, FilePath: /data/processed/processed_2694
+INFO    2025-01-07 19:46:57 Module: FileService Logout successful. UserID: 4007, SessionPath: /users/4007/sessions/session_7141
+INFO    2025-01-07 19:26:31 Module: SecurityService Scheduled task completed. TaskID: task_2192, Details: Clean up temp files from path /temp/folder_5384/file_7233.log
+WARNING 2025-01-07 19:42:27 Module: StorageService Packet loss detected. NodeID: node_7309, LossPercentage: 1.58%, Path: /network/node_7309
+WARNING 2025-01-07 19:46:16 Module: StorageService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: Mozilla/5.0
+DEBUG   2025-01-07 19:12:49 Module: MonitoringService Cache write. Key: key_5062, Value: 73 entries, WritePath: /cache/cache_9736/key_5062
+DEBUG   2025-01-07 19:29:01 Module: PaymentGateway Cache hit. Key: key_9679, CachePath: /cache/cache_7759/key_9679
+WARNING 2025-01-07 19:54:05 Module: FileService High memory usage detected. Memory: 17%, Node: node_5560, Application: app_32
+ERROR   2025-01-07 19:39:38 Module: NotificationService Unauthorized login attempt detected. IP: 141.3.224.189, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:34:34 Module: StorageService Transforming dataset. DatasetID: dataset_1424, RowsProcessed: 3717
+DEBUG   2025-01-07 19:23:42 Module: CacheService Data aggregation completed. AggregatedRows: 9905, FilePath: /data/processed/processed_7908
+WARNING 2025-01-07 19:39:19 Module: CacheService Disk utilization high. DiskID: disk_4942, Used: 14%, Threshold: 90%, Path: /mnt/disk_4942
+ERROR   2025-01-07 20:00:15 Module: SchedulerService Unauthorized login attempt detected. IP: 40.133.108.34, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:40:47 Module: StorageService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_3307
+DEBUG   2025-01-07 20:04:27 Module: DataProcessor Starting batch processing. BatchID: batch_8210, SourcePath: /data/source/folder_1416/file_7039.log, TargetPath: /data/target/folder_9533/file_4796.log
+INFO    2025-01-07 19:54:13 Module: DataProcessor Request received. Endpoint: /api/submit, Params: id=param_3834&status=active, Status: 200, ResponseTime: 2511ms
+INFO    2025-01-07 19:16:37 Module: StorageService Metrics collected. CPU: 32%, Memory: 76%, Disk: 97%, Nodes: 16
+DEBUG   2025-01-07 19:07:54 Module: APIGateway Cache hit. Key: key_6953, CachePath: /cache/cache_1118/key_6953
+ERROR   2025-01-07 19:14:17 Module: DataProcessor Unauthorized login attempt detected. IP: 169.169.58.40, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:48:31 Module: CacheService Disk read failure. DiskID: disk_6142, Sector: 3832, FilePath: /mnt/disk_6142/data/file_processed_5408
+INFO    2025-01-07 20:00:46 Module: CacheService Metrics collected. CPU: 78%, Memory: 88%, Disk: 51%, Nodes: 41
+ERROR   2025-01-07 19:55:32 Module: PaymentGateway Unauthorized login attempt detected. IP: 141.205.134.9, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:33:28 Module: NotificationService Transforming dataset. DatasetID: dataset_5912, RowsProcessed: 3180
+ERROR   2025-01-07 19:16:14 Module: SecurityService Disk write failure. DiskID: disk_5429, Sector: 2738, FilePath: /mnt/disk_5429/data/file_processed_6521
+WARNING 2025-01-07 19:09:57 Module: PaymentGateway Packet loss detected. NodeID: node_1054, LossPercentage: 0.29%, Path: /network/node_1054
+DEBUG   2025-01-07 19:36:00 Module: CacheService Cache write. Key: key_7075, Value: 87 entries, WritePath: /cache/cache_9509/key_7075
+WARNING 2025-01-07 19:13:05 Module: FileService Disk utilization high. DiskID: disk_3233, Used: 72%, Threshold: 90%, Path: /mnt/disk_3233
+INFO    2025-01-07 19:44:35 Module: NotificationService User login successful. UserID: 5029, IP: 243.116.31.210, SessionPath: /users/5029/sessions/session_4687
+WARNING 2025-01-07 20:00:24 Module: CacheService Excessive login attempts. IP: 73.61.238.232, Attempts: 9, LockFile: /auth/locks/73.61.238.232
+DEBUG   2025-01-07 19:27:46 Module: NotificationService Starting batch processing. BatchID: batch_8273, SourcePath: /data/source/folder_4574/file_8797.log, TargetPath: /data/target/folder_1459/file_5896.log
+INFO    2025-01-07 19:36:39 Module: StorageService Metrics collected. CPU: 86%, Memory: 25%, Disk: 11%, Nodes: 41
+DEBUG   2025-01-07 19:33:53 Module: NotificationService Starting batch processing. BatchID: batch_6520, SourcePath: /data/source/folder_5412/file_1540.log, TargetPath: /data/target/folder_6935/file_8958.log
+INFO    2025-01-07 19:08:53 Module: SecurityService Request received. Endpoint: /api/query, Params: id=param_9079&status=failed, Status: 200, ResponseTime: 3416ms
+WARNING 2025-01-07 19:53:02 Module: DataProcessor High memory usage detected. Memory: 2%, Node: node_5102, Application: app_73
+DEBUG   2025-01-07 19:13:56 Module: AuthService Transforming dataset. DatasetID: dataset_8954, RowsProcessed: 3801
+INFO    2025-01-07 19:29:59 Module: NotificationService User login successful. UserID: 8738, IP: 121.242.0.213, SessionPath: /users/8738/sessions/session_1447
+ERROR   2025-01-07 19:42:53 Module: FileService Disk read failure. DiskID: disk_1009, Sector: 3175, FilePath: /mnt/disk_1009/data/file_processed_4086
+ERROR   2025-01-07 20:02:12 Module: MonitoringService Disk write failure. DiskID: disk_1916, Sector: 4876, FilePath: /mnt/disk_1916/data/file_processed_6551
+WARNING 2025-01-07 19:57:34 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+DEBUG   2025-01-07 19:24:51 Module: MonitoringService Starting batch processing. BatchID: batch_6148, SourcePath: /data/source/folder_9151/file_7333.log, TargetPath: /data/target/folder_5638/file_8191.log
+DEBUG   2025-01-07 19:45:15 Module: APIGateway Cache write. Key: key_6106, Value: 77 entries, WritePath: /cache/cache_2986/key_6106
+ERROR   2025-01-07 20:02:27 Module: CacheService Unauthorized login attempt detected. IP: 167.57.89.41, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:27:12 Module: MonitoringService Disk read failure. DiskID: disk_4117, Sector: 3134, FilePath: /mnt/disk_4117/data/file_processed_8900
+WARNING 2025-01-07 19:43:39 Module: SecurityService Disk utilization high. DiskID: disk_3345, Used: 73%, Threshold: 90%, Path: /mnt/disk_3345
+WARNING 2025-01-07 19:13:47 Module: MonitoringService High memory usage detected. Memory: 56%, Node: node_6034, Application: app_28
+ERROR   2025-01-07 19:43:01 Module: SecurityService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_2601
+INFO    2025-01-07 19:06:32 Module: NotificationService Scheduled task completed. TaskID: task_8877, Details: Clean up temp files from path /temp/folder_7334/file_5716.log
+INFO    2025-01-07 19:49:01 Module: APIGateway Metrics collected. CPU: 27%, Memory: 73%, Disk: 45%, Nodes: 15
+INFO    2025-01-07 19:24:09 Module: MonitoringService Logout successful. UserID: 7063, SessionPath: /users/7063/sessions/session_9050
+WARNING 2025-01-07 19:39:27 Module: AuthService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+DEBUG   2025-01-07 19:50:17 Module: SchedulerService Cache write. Key: key_8880, Value: 11 entries, WritePath: /cache/cache_8988/key_8880
+WARNING 2025-01-07 19:37:51 Module: MonitoringService Packet loss detected. NodeID: node_3537, LossPercentage: 4.96%, Path: /network/node_3537
+DEBUG   2025-01-07 19:53:43 Module: DataProcessor Cache write. Key: key_7689, Value: 10 entries, WritePath: /cache/cache_1813/key_7689
+WARNING 2025-01-07 19:59:30 Module: StorageService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: Mozilla/5.0
+WARNING 2025-01-07 19:49:10 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/submit, UserAgent: PostmanRuntime/7.29.0
+INFO    2025-01-07 19:47:31 Module: FileService Logout successful. UserID: 4731, SessionPath: /users/4731/sessions/session_1520
+DEBUG   2025-01-07 19:24:43 Module: CacheService Cache write. Key: key_2364, Value: 46 entries, WritePath: /cache/cache_2258/key_2364
+WARNING 2025-01-07 19:10:25 Module: CacheService Disk utilization high. DiskID: disk_3389, Used: 44%, Threshold: 90%, Path: /mnt/disk_3389
+WARNING 2025-01-07 19:16:09 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+DEBUG   2025-01-07 19:59:00 Module: APIGateway Transforming dataset. DatasetID: dataset_8070, RowsProcessed: 1329
+DEBUG   2025-01-07 19:58:30 Module: NotificationService Data aggregation completed. AggregatedRows: 3531, FilePath: /data/processed/processed_3119
+WARNING 2025-01-07 19:53:12 Module: SchedulerService Packet loss detected. NodeID: node_5489, LossPercentage: 1.66%, Path: /network/node_5489
+WARNING 2025-01-07 19:45:17 Module: SecurityService Excessive login attempts. IP: 46.6.64.248, Attempts: 4, LockFile: /auth/locks/46.6.64.248
+DEBUG   2025-01-07 19:36:32 Module: SecurityService Cache write. Key: key_9035, Value: 93 entries, WritePath: /cache/cache_4546/key_9035
+ERROR   2025-01-07 19:56:14 Module: AuthService Unauthorized login attempt detected. IP: 150.134.223.90, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:31:15 Module: APIGateway Starting batch processing. BatchID: batch_3359, SourcePath: /data/source/folder_6109/file_8559.log, TargetPath: /data/target/folder_5702/file_5916.log
+WARNING 2025-01-07 19:32:21 Module: AuthService Excessive login attempts. IP: 254.135.42.79, Attempts: 6, LockFile: /auth/locks/254.135.42.79
+WARNING 2025-01-07 19:25:51 Module: FileService High memory usage detected. Memory: 23%, Node: node_1228, Application: app_28
+DEBUG   2025-01-07 19:53:10 Module: APIGateway Cache hit. Key: key_8775, CachePath: /cache/cache_8443/key_8775
+DEBUG   2025-01-07 19:31:31 Module: DataProcessor Starting batch processing. BatchID: batch_5626, SourcePath: /data/source/folder_8594/file_4440.log, TargetPath: /data/target/folder_1040/file_5722.log
+WARNING 2025-01-07 19:59:47 Module: NotificationService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: curl/7.64.1
+ERROR   2025-01-07 20:01:01 Module: SecurityService Unauthorized login attempt detected. IP: 119.154.33.150, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:54:14 Module: PaymentGateway High memory usage detected. Memory: 2%, Node: node_8783, Application: app_11
+DEBUG   2025-01-07 19:21:45 Module: CacheService Data aggregation completed. AggregatedRows: 8938, FilePath: /data/processed/processed_5961
+DEBUG   2025-01-07 19:29:25 Module: StorageService Cache hit. Key: key_7626, CachePath: /cache/cache_4943/key_7626
+INFO    2025-01-07 19:08:47 Module: MonitoringService Metrics collected. CPU: 96%, Memory: 31%, Disk: 30%, Nodes: 49
+INFO    2025-01-07 19:34:53 Module: SecurityService Request received. Endpoint: /api/submit, Params: id=param_5197&status=pending, Status: 200, ResponseTime: 2597ms
+ERROR   2025-01-07 19:28:42 Module: CacheService Disk read failure. DiskID: disk_7737, Sector: 3370, FilePath: /mnt/disk_7737/data/file_processed_5655
+INFO    2025-01-07 19:14:43 Module: StorageService Request received. Endpoint: /api/delete, Params: id=param_7722&status=pending, Status: 200, ResponseTime: 3168ms
+DEBUG   2025-01-07 19:49:11 Module: SecurityService Data aggregation completed. AggregatedRows: 7407, FilePath: /data/processed/processed_8158
+WARNING 2025-01-07 19:06:57 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: curl/7.64.1
+INFO    2025-01-07 19:25:20 Module: CacheService User login successful. UserID: 4065, IP: 146.135.40.7, SessionPath: /users/4065/sessions/session_4604
+ERROR   2025-01-07 19:27:49 Module: SecurityService Disk read failure. DiskID: disk_9725, Sector: 3212, FilePath: /mnt/disk_9725/data/file_processed_1402
+INFO    2025-01-07 19:27:35 Module: PaymentGateway Scheduled task completed. TaskID: task_6700, Details: Clean up temp files from path /temp/folder_2131/file_4792.log
+WARNING 2025-01-07 20:03:40 Module: SchedulerService Disk utilization high. DiskID: disk_3330, Used: 39%, Threshold: 90%, Path: /mnt/disk_3330
+INFO    2025-01-07 19:12:59 Module: DataProcessor Scheduled task completed. TaskID: task_6803, Details: Clean up temp files from path /temp/folder_2218/file_6586.log
+INFO    2025-01-07 19:07:38 Module: DataProcessor Metrics collected. CPU: 95%, Memory: 8%, Disk: 84%, Nodes: 44
+DEBUG   2025-01-07 19:34:43 Module: CacheService Cache hit. Key: key_5164, CachePath: /cache/cache_2906/key_5164
+DEBUG   2025-01-07 19:56:18 Module: NotificationService Cache write. Key: key_9956, Value: 70 entries, WritePath: /cache/cache_9420/key_9956
+WARNING 2025-01-07 19:52:15 Module: SchedulerService Deprecated API usage detected. Endpoint: /api/query, UserAgent: Mozilla/5.0
+WARNING 2025-01-07 19:19:39 Module: PaymentGateway Disk utilization high. DiskID: disk_7462, Used: 68%, Threshold: 90%, Path: /mnt/disk_7462
+ERROR   2025-01-07 19:11:42 Module: DataProcessor Disk read failure. DiskID: disk_7263, Sector: 2384, FilePath: /mnt/disk_7263/data/file_processed_5438
+DEBUG   2025-01-07 19:45:18 Module: AuthService Data aggregation completed. AggregatedRows: 3008, FilePath: /data/processed/processed_3724
+WARNING 2025-01-07 19:25:00 Module: NotificationService High memory usage detected. Memory: 73%, Node: node_5731, Application: app_30
+WARNING 2025-01-07 19:09:30 Module: SecurityService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:46:54 Module: SchedulerService Payment declined. TransactionID: txn_2863, Error: Invalid card number, Path: /payments/errors/txn_2863
+ERROR   2025-01-07 19:30:47 Module: CacheService Payment declined. TransactionID: txn_6690, Error: Invalid card number, Path: /payments/errors/txn_6690
+DEBUG   2025-01-07 19:10:36 Module: CacheService Cache hit. Key: key_7334, CachePath: /cache/cache_3273/key_7334
+WARNING 2025-01-07 19:42:48 Module: CacheService Disk utilization high. DiskID: disk_8038, Used: 20%, Threshold: 90%, Path: /mnt/disk_8038
+ERROR   2025-01-07 19:44:55 Module: SecurityService Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_3964
+INFO    2025-01-07 19:33:28 Module: FileService Request received. Endpoint: /api/delete, Params: id=param_5978&status=active, Status: 200, ResponseTime: 3845ms
+ERROR   2025-01-07 19:25:47 Module: FileService Unauthorized login attempt detected. IP: 57.185.31.63, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:38:58 Module: FileService Payment declined. TransactionID: txn_7293, Error: Invalid card number, Path: /payments/errors/txn_7293
+ERROR   2025-01-07 19:15:20 Module: SchedulerService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_9153
+ERROR   2025-01-07 19:07:41 Module: AuthService Unauthorized login attempt detected. IP: 65.110.187.202, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:17:59 Module: PaymentGateway Data aggregation completed. AggregatedRows: 8337, FilePath: /data/processed/processed_9006
+INFO    2025-01-07 19:44:08 Module: FileService Request received. Endpoint: /api/fetch, Params: id=param_6878&status=pending, Status: 200, ResponseTime: 4752ms
+DEBUG   2025-01-07 19:40:20 Module: MonitoringService Data aggregation completed. AggregatedRows: 9752, FilePath: /data/processed/processed_6150
+ERROR   2025-01-07 19:06:22 Module: PaymentGateway Unauthorized login attempt detected. IP: 182.33.57.117, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:25:25 Module: SchedulerService User login successful. UserID: 2421, IP: 74.122.172.123, SessionPath: /users/2421/sessions/session_6715
+DEBUG   2025-01-07 19:20:25 Module: DataProcessor Transforming dataset. DatasetID: dataset_2867, RowsProcessed: 298
+ERROR   2025-01-07 19:54:42 Module: SchedulerService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_2466
+WARNING 2025-01-07 19:57:06 Module: NotificationService High memory usage detected. Memory: 2%, Node: node_1611, Application: app_72
+ERROR   2025-01-07 19:25:53 Module: MonitoringService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_5855
+INFO    2025-01-07 20:02:34 Module: PaymentGateway User login successful. UserID: 6572, IP: 177.68.249.44, SessionPath: /users/6572/sessions/session_9448
+ERROR   2025-01-07 19:39:43 Module: NotificationService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_2861
+INFO    2025-01-07 19:28:31 Module: CacheService Logout successful. UserID: 6806, SessionPath: /users/6806/sessions/session_3884
+WARNING 2025-01-07 19:15:27 Module: SchedulerService Packet loss detected. NodeID: node_9399, LossPercentage: 3.52%, Path: /network/node_9399
+INFO    2025-01-07 19:54:59 Module: NotificationService User login successful. UserID: 4690, IP: 239.155.251.117, SessionPath: /users/4690/sessions/session_4673
+INFO    2025-01-07 20:02:59 Module: APIGateway Request received. Endpoint: /api/fetch, Params: id=param_9496&status=failed, Status: 200, ResponseTime: 3402ms
+DEBUG   2025-01-07 19:39:06 Module: SchedulerService Cache write. Key: key_2165, Value: 94 entries, WritePath: /cache/cache_7068/key_2165
+INFO    2025-01-07 19:44:13 Module: DataProcessor Logout successful. UserID: 5432, SessionPath: /users/5432/sessions/session_3469
+WARNING 2025-01-07 19:28:20 Module: NotificationService Disk utilization high. DiskID: disk_2166, Used: 89%, Threshold: 90%, Path: /mnt/disk_2166
+ERROR   2025-01-07 19:37:14 Module: SecurityService Disk read failure. DiskID: disk_2666, Sector: 2661, FilePath: /mnt/disk_2666/data/file_processed_2422
+DEBUG   2025-01-07 19:37:45 Module: SecurityService Transforming dataset. DatasetID: dataset_2058, RowsProcessed: 2264
+INFO    2025-01-07 19:45:49 Module: SecurityService Scheduled task completed. TaskID: task_7846, Details: Clean up temp files from path /temp/folder_3707/file_5393.log
+INFO    2025-01-07 19:15:40 Module: FileService Metrics collected. CPU: 7%, Memory: 94%, Disk: 71%, Nodes: 20
+WARNING 2025-01-07 19:40:10 Module: DataProcessor High memory usage detected. Memory: 64%, Node: node_4117, Application: app_68
+WARNING 2025-01-07 19:45:47 Module: AuthService High memory usage detected. Memory: 70%, Node: node_5828, Application: app_27
+DEBUG   2025-01-07 19:58:50 Module: AuthService Data aggregation completed. AggregatedRows: 3549, FilePath: /data/processed/processed_2570
+ERROR   2025-01-07 19:54:44 Module: AuthService Unauthorized login attempt detected. IP: 83.115.67.156, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:30:55 Module: APIGateway Unauthorized login attempt detected. IP: 107.157.100.27, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:54:57 Module: MonitoringService Transforming dataset. DatasetID: dataset_1408, RowsProcessed: 3373
+ERROR   2025-01-07 20:02:42 Module: DataProcessor Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_7013
+INFO    2025-01-07 19:27:32 Module: DataProcessor Request received. Endpoint: /api/query, Params: id=param_8182&status=failed, Status: 200, ResponseTime: 4960ms
+DEBUG   2025-01-07 19:17:21 Module: APIGateway Cache hit. Key: key_3310, CachePath: /cache/cache_3710/key_3310
+INFO    2025-01-07 19:27:07 Module: SecurityService Metrics collected. CPU: 75%, Memory: 44%, Disk: 87%, Nodes: 30
+INFO    2025-01-07 19:29:04 Module: PaymentGateway Metrics collected. CPU: 79%, Memory: 23%, Disk: 86%, Nodes: 26
+INFO    2025-01-07 19:06:05 Module: PaymentGateway User login successful. UserID: 2391, IP: 213.38.221.153, SessionPath: /users/2391/sessions/session_4425
+INFO    2025-01-07 19:58:37 Module: AuthService Scheduled task completed. TaskID: task_8874, Details: Clean up temp files from path /temp/folder_3337/file_4084.log
+WARNING 2025-01-07 19:10:53 Module: NotificationService Packet loss detected. NodeID: node_1079, LossPercentage: 4.05%, Path: /network/node_1079
+ERROR   2025-01-07 19:12:22 Module: DataProcessor Disk read failure. DiskID: disk_9067, Sector: 3896, FilePath: /mnt/disk_9067/data/file_processed_5265
+INFO    2025-01-07 19:33:21 Module: PaymentGateway User login successful. UserID: 8537, IP: 156.124.135.195, SessionPath: /users/8537/sessions/session_5047
+INFO    2025-01-07 20:00:51 Module: MonitoringService Request received. Endpoint: /api/delete, Params: id=param_5677&status=pending, Status: 200, ResponseTime: 4720ms
+DEBUG   2025-01-07 19:43:16 Module: SecurityService Cache write. Key: key_8752, Value: 82 entries, WritePath: /cache/cache_4674/key_8752
+WARNING 2025-01-07 19:11:58 Module: SecurityService Packet loss detected. NodeID: node_8125, LossPercentage: 3.44%, Path: /network/node_8125
+DEBUG   2025-01-07 19:45:39 Module: NotificationService Data aggregation completed. AggregatedRows: 4388, FilePath: /data/processed/processed_6242
+INFO    2025-01-07 19:35:10 Module: NotificationService User login successful. UserID: 7699, IP: 251.11.31.204, SessionPath: /users/7699/sessions/session_7205
+DEBUG   2025-01-07 19:28:24 Module: FileService Starting batch processing. BatchID: batch_2493, SourcePath: /data/source/folder_1439/file_2285.log, TargetPath: /data/target/folder_6958/file_1929.log
+DEBUG   2025-01-07 19:42:10 Module: PaymentGateway Cache hit. Key: key_4878, CachePath: /cache/cache_5952/key_4878
+ERROR   2025-01-07 19:42:38 Module: MonitoringService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_6081
+INFO    2025-01-07 19:15:25 Module: AuthService User login successful. UserID: 3542, IP: 32.2.227.4, SessionPath: /users/3542/sessions/session_7579
+WARNING 2025-01-07 19:43:06 Module: FileService Disk utilization high. DiskID: disk_3692, Used: 5%, Threshold: 90%, Path: /mnt/disk_3692
+DEBUG   2025-01-07 19:53:22 Module: StorageService Transforming dataset. DatasetID: dataset_9182, RowsProcessed: 3485
+INFO    2025-01-07 19:35:44 Module: SecurityService User login successful. UserID: 1133, IP: 209.106.174.202, SessionPath: /users/1133/sessions/session_2591
+DEBUG   2025-01-07 19:38:11 Module: NotificationService Data aggregation completed. AggregatedRows: 4217, FilePath: /data/processed/processed_9725
+INFO    2025-01-07 19:14:44 Module: NotificationService User login successful. UserID: 4598, IP: 36.87.98.152, SessionPath: /users/4598/sessions/session_7732
+DEBUG   2025-01-07 19:44:33 Module: PaymentGateway Cache write. Key: key_9602, Value: 47 entries, WritePath: /cache/cache_6381/key_9602
+DEBUG   2025-01-07 19:09:42 Module: CacheService Starting batch processing. BatchID: batch_1037, SourcePath: /data/source/folder_6881/file_8107.log, TargetPath: /data/target/folder_2147/file_2468.log
+DEBUG   2025-01-07 19:42:21 Module: APIGateway Cache write. Key: key_6571, Value: 93 entries, WritePath: /cache/cache_4475/key_6571
+DEBUG   2025-01-07 19:16:26 Module: CacheService Cache hit. Key: key_9266, CachePath: /cache/cache_4274/key_9266
+ERROR   2025-01-07 19:32:48 Module: AuthService Payment declined. TransactionID: txn_2315, Error: Invalid card number, Path: /payments/errors/txn_2315
+INFO    2025-01-07 19:49:47 Module: SchedulerService Scheduled task completed. TaskID: task_2950, Details: Clean up temp files from path /temp/folder_9104/file_3806.log
+ERROR   2025-01-07 19:17:17 Module: DataProcessor Disk write failure. DiskID: disk_4241, Sector: 4865, FilePath: /mnt/disk_4241/data/file_processed_6567
+WARNING 2025-01-07 20:01:49 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+INFO    2025-01-07 19:51:59 Module: FileService User login successful. UserID: 3295, IP: 216.110.188.68, SessionPath: /users/3295/sessions/session_8877
+INFO    2025-01-07 19:40:13 Module: CacheService User login successful. UserID: 7673, IP: 226.181.241.199, SessionPath: /users/7673/sessions/session_9228
+WARNING 2025-01-07 19:39:45 Module: FileService Excessive login attempts. IP: 76.17.139.155, Attempts: 5, LockFile: /auth/locks/76.17.139.155
+ERROR   2025-01-07 19:17:09 Module: NotificationService Disk write failure. DiskID: disk_1758, Sector: 2584, FilePath: /mnt/disk_1758/data/file_processed_3157
+INFO    2025-01-07 19:50:44 Module: DataProcessor Scheduled task completed. TaskID: task_3614, Details: Clean up temp files from path /temp/folder_1692/file_7877.log
+ERROR   2025-01-07 19:53:44 Module: CacheService Payment declined. TransactionID: txn_9649, Error: Invalid card number, Path: /payments/errors/txn_9649
+ERROR   2025-01-07 19:06:55 Module: SchedulerService Disk write failure. DiskID: disk_8306, Sector: 3881, FilePath: /mnt/disk_8306/data/file_processed_4915
+ERROR   2025-01-07 19:35:53 Module: DataProcessor Payment declined. TransactionID: txn_2489, Error: Invalid card number, Path: /payments/errors/txn_2489
+INFO    2025-01-07 19:19:36 Module: SchedulerService Metrics collected. CPU: 67%, Memory: 8%, Disk: 97%, Nodes: 49
+INFO    2025-01-07 19:31:44 Module: DataProcessor Logout successful. UserID: 6763, SessionPath: /users/6763/sessions/session_9914
+ERROR   2025-01-07 19:11:40 Module: AuthService Disk read failure. DiskID: disk_3929, Sector: 1353, FilePath: /mnt/disk_3929/data/file_processed_9514
+DEBUG   2025-01-07 19:35:38 Module: APIGateway Transforming dataset. DatasetID: dataset_7361, RowsProcessed: 895
+WARNING 2025-01-07 19:32:27 Module: SchedulerService High memory usage detected. Memory: 69%, Node: node_6468, Application: app_63
+INFO    2025-01-07 19:06:27 Module: PaymentGateway Logout successful. UserID: 9723, SessionPath: /users/9723/sessions/session_1534
+ERROR   2025-01-07 19:33:33 Module: SecurityService Payment declined. TransactionID: txn_7235, Error: Invalid card number, Path: /payments/errors/txn_7235
+DEBUG   2025-01-07 19:51:54 Module: NotificationService Starting batch processing. BatchID: batch_6323, SourcePath: /data/source/folder_4375/file_7888.log, TargetPath: /data/target/folder_5578/file_9285.log
+DEBUG   2025-01-07 19:30:51 Module: SecurityService Cache write. Key: key_9930, Value: 47 entries, WritePath: /cache/cache_2922/key_9930
+DEBUG   2025-01-07 19:22:36 Module: MonitoringService Cache write. Key: key_4591, Value: 29 entries, WritePath: /cache/cache_2172/key_4591
+DEBUG   2025-01-07 19:34:56 Module: MonitoringService Data aggregation completed. AggregatedRows: 1101, FilePath: /data/processed/processed_7398
+DEBUG   2025-01-07 19:56:27 Module: APIGateway Cache write. Key: key_6778, Value: 42 entries, WritePath: /cache/cache_1149/key_6778
+ERROR   2025-01-07 19:32:40 Module: DataProcessor Unauthorized login attempt detected. IP: 124.143.37.216, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:06:10 Module: DataProcessor Request received. Endpoint: /api/submit, Params: id=param_7469&status=failed, Status: 200, ResponseTime: 2654ms
+ERROR   2025-01-07 19:53:07 Module: AuthService Disk read failure. DiskID: disk_6764, Sector: 4340, FilePath: /mnt/disk_6764/data/file_processed_3436
+DEBUG   2025-01-07 19:25:33 Module: CacheService Transforming dataset. DatasetID: dataset_2955, RowsProcessed: 2388
+DEBUG   2025-01-07 19:21:30 Module: FileService Cache write. Key: key_9162, Value: 57 entries, WritePath: /cache/cache_9280/key_9162
+ERROR   2025-01-07 19:05:30 Module: SecurityService Disk read failure. DiskID: disk_1644, Sector: 3493, FilePath: /mnt/disk_1644/data/file_processed_1827
+ERROR   2025-01-07 19:23:12 Module: DataProcessor Disk read failure. DiskID: disk_2496, Sector: 2837, FilePath: /mnt/disk_2496/data/file_processed_4179
+INFO    2025-01-07 19:39:53 Module: DataProcessor Scheduled task completed. TaskID: task_8009, Details: Clean up temp files from path /temp/folder_7666/file_2827.log
+INFO    2025-01-07 19:14:09 Module: DataProcessor User login successful. UserID: 4312, IP: 230.201.15.224, SessionPath: /users/4312/sessions/session_5697
+WARNING 2025-01-07 19:54:20 Module: AuthService Disk utilization high. DiskID: disk_7310, Used: 100%, Threshold: 90%, Path: /mnt/disk_7310
+INFO    2025-01-07 19:10:06 Module: MonitoringService Scheduled task completed. TaskID: task_7006, Details: Clean up temp files from path /temp/folder_3138/file_1568.log
+WARNING 2025-01-07 20:01:23 Module: FileService Packet loss detected. NodeID: node_9804, LossPercentage: 0.91%, Path: /network/node_9804
+WARNING 2025-01-07 19:19:05 Module: APIGateway Excessive login attempts. IP: 80.227.214.225, Attempts: 9, LockFile: /auth/locks/80.227.214.225
+ERROR   2025-01-07 19:25:34 Module: NotificationService Payment declined. TransactionID: txn_2905, Error: Invalid card number, Path: /payments/errors/txn_2905
+INFO    2025-01-07 19:35:16 Module: SecurityService Logout successful. UserID: 5495, SessionPath: /users/5495/sessions/session_2442
+INFO    2025-01-07 19:08:17 Module: FileService Metrics collected. CPU: 80%, Memory: 35%, Disk: 55%, Nodes: 46
+WARNING 2025-01-07 19:50:33 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/submit, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:53:15 Module: CacheService Unauthorized login attempt detected. IP: 84.182.1.222, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:19:23 Module: MonitoringService Transforming dataset. DatasetID: dataset_8688, RowsProcessed: 813
+ERROR   2025-01-07 19:26:26 Module: StorageService Payment declined. TransactionID: txn_4493, Error: Invalid card number, Path: /payments/errors/txn_4493
+WARNING 2025-01-07 19:25:45 Module: NotificationService Packet loss detected. NodeID: node_1932, LossPercentage: 2.51%, Path: /network/node_1932
+INFO    2025-01-07 19:39:03 Module: DataProcessor Request received. Endpoint: /api/submit, Params: id=param_6363&status=pending, Status: 200, ResponseTime: 3284ms
+ERROR   2025-01-07 19:40:12 Module: SchedulerService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_1120
+DEBUG   2025-01-07 19:15:12 Module: PaymentGateway Cache hit. Key: key_6270, CachePath: /cache/cache_2458/key_6270
+WARNING 2025-01-07 19:45:13 Module: StorageService Disk utilization high. DiskID: disk_3405, Used: 57%, Threshold: 90%, Path: /mnt/disk_3405
+DEBUG   2025-01-07 19:08:47 Module: SchedulerService Starting batch processing. BatchID: batch_7331, SourcePath: /data/source/folder_1074/file_5668.log, TargetPath: /data/target/folder_2822/file_4980.log
+ERROR   2025-01-07 20:01:17 Module: SchedulerService Disk write failure. DiskID: disk_7544, Sector: 1603, FilePath: /mnt/disk_7544/data/file_processed_1949
+ERROR   2025-01-07 19:58:22 Module: AuthService Payment declined. TransactionID: txn_8549, Error: Invalid card number, Path: /payments/errors/txn_8549
+WARNING 2025-01-07 20:04:06 Module: SchedulerService Disk utilization high. DiskID: disk_8537, Used: 75%, Threshold: 90%, Path: /mnt/disk_8537
+DEBUG   2025-01-07 19:43:30 Module: CacheService Cache hit. Key: key_8197, CachePath: /cache/cache_4440/key_8197
+WARNING 2025-01-07 20:00:45 Module: APIGateway High memory usage detected. Memory: 75%, Node: node_5321, Application: app_62
+WARNING 2025-01-07 19:13:24 Module: NotificationService Packet loss detected. NodeID: node_4503, LossPercentage: 2.84%, Path: /network/node_4503
+DEBUG   2025-01-07 19:55:38 Module: NotificationService Cache hit. Key: key_3493, CachePath: /cache/cache_1749/key_3493
+INFO    2025-01-07 19:39:08 Module: MonitoringService Request received. Endpoint: /api/submit, Params: id=param_3629&status=active, Status: 200, ResponseTime: 780ms
+DEBUG   2025-01-07 19:17:56 Module: CacheService Starting batch processing. BatchID: batch_7666, SourcePath: /data/source/folder_9384/file_5455.log, TargetPath: /data/target/folder_2918/file_5688.log
+ERROR   2025-01-07 19:24:04 Module: StorageService Disk read failure. DiskID: disk_6419, Sector: 1280, FilePath: /mnt/disk_6419/data/file_processed_2890
+ERROR   2025-01-07 19:09:25 Module: DataProcessor Disk write failure. DiskID: disk_3716, Sector: 3022, FilePath: /mnt/disk_3716/data/file_processed_1975
+DEBUG   2025-01-07 19:22:06 Module: SecurityService Cache hit. Key: key_6561, CachePath: /cache/cache_7266/key_6561
+WARNING 2025-01-07 19:06:37 Module: DataProcessor Disk utilization high. DiskID: disk_3465, Used: 85%, Threshold: 90%, Path: /mnt/disk_3465
+INFO    2025-01-07 19:17:42 Module: NotificationService Metrics collected. CPU: 42%, Memory: 15%, Disk: 91%, Nodes: 24
+ERROR   2025-01-07 19:46:38 Module: AuthService Disk read failure. DiskID: disk_7370, Sector: 4090, FilePath: /mnt/disk_7370/data/file_processed_9684
+WARNING 2025-01-07 19:16:18 Module: MonitoringService High memory usage detected. Memory: 79%, Node: node_2401, Application: app_45
+ERROR   2025-01-07 20:00:56 Module: MonitoringService Payment declined. TransactionID: txn_7030, Error: Invalid card number, Path: /payments/errors/txn_7030
+INFO    2025-01-07 19:50:07 Module: FileService Logout successful. UserID: 9354, SessionPath: /users/9354/sessions/session_2667
+WARNING 2025-01-07 19:09:49 Module: StorageService Packet loss detected. NodeID: node_1893, LossPercentage: 4.12%, Path: /network/node_1893
+WARNING 2025-01-07 20:00:46 Module: CacheService Packet loss detected. NodeID: node_7625, LossPercentage: 1.95%, Path: /network/node_7625
+ERROR   2025-01-07 19:12:32 Module: StorageService Payment declined. TransactionID: txn_3891, Error: Invalid card number, Path: /payments/errors/txn_3891
+WARNING 2025-01-07 19:24:03 Module: PaymentGateway Disk utilization high. DiskID: disk_9912, Used: 66%, Threshold: 90%, Path: /mnt/disk_9912
+INFO    2025-01-07 19:05:05 Module: CacheService Scheduled task completed. TaskID: task_8306, Details: Clean up temp files from path /temp/folder_7516/file_3197.log
+DEBUG   2025-01-07 19:20:15 Module: CacheService Data aggregation completed. AggregatedRows: 7783, FilePath: /data/processed/processed_6463
+INFO    2025-01-07 19:12:01 Module: NotificationService Logout successful. UserID: 4594, SessionPath: /users/4594/sessions/session_1115
+DEBUG   2025-01-07 19:54:24 Module: APIGateway Data aggregation completed. AggregatedRows: 9627, FilePath: /data/processed/processed_8618
+DEBUG   2025-01-07 19:46:04 Module: NotificationService Data aggregation completed. AggregatedRows: 7047, FilePath: /data/processed/processed_9724
+INFO    2025-01-07 19:55:15 Module: MonitoringService Logout successful. UserID: 5964, SessionPath: /users/5964/sessions/session_6564
+DEBUG   2025-01-07 19:59:18 Module: PaymentGateway Transforming dataset. DatasetID: dataset_7634, RowsProcessed: 4206
+INFO    2025-01-07 19:53:40 Module: DataProcessor Request received. Endpoint: /api/fetch, Params: id=param_6673&status=failed, Status: 200, ResponseTime: 4455ms
+WARNING 2025-01-07 19:51:39 Module: SecurityService Deprecated API usage detected. Endpoint: /api/submit, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:25:19 Module: StorageService Disk read failure. DiskID: disk_2438, Sector: 1156, FilePath: /mnt/disk_2438/data/file_processed_6593
+DEBUG   2025-01-07 19:36:11 Module: CacheService Cache hit. Key: key_4296, CachePath: /cache/cache_1784/key_4296
+INFO    2025-01-07 19:37:54 Module: APIGateway Request received. Endpoint: /api/submit, Params: id=param_9118&status=pending, Status: 200, ResponseTime: 1600ms
+ERROR   2025-01-07 19:22:05 Module: CacheService Disk write failure. DiskID: disk_9519, Sector: 3297, FilePath: /mnt/disk_9519/data/file_processed_1520
+DEBUG   2025-01-07 19:34:09 Module: PaymentGateway Cache hit. Key: key_5170, CachePath: /cache/cache_4797/key_5170
+WARNING 2025-01-07 19:07:41 Module: MonitoringService High memory usage detected. Memory: 21%, Node: node_2368, Application: app_86
+DEBUG   2025-01-07 19:48:56 Module: DataProcessor Cache hit. Key: key_5959, CachePath: /cache/cache_7046/key_5959
+WARNING 2025-01-07 19:13:57 Module: NotificationService Packet loss detected. NodeID: node_9887, LossPercentage: 2.7%, Path: /network/node_9887
+ERROR   2025-01-07 19:08:16 Module: SchedulerService Payment declined. TransactionID: txn_1868, Error: Invalid card number, Path: /payments/errors/txn_1868
+ERROR   2025-01-07 19:10:09 Module: APIGateway Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_2804
+WARNING 2025-01-07 20:02:39 Module: FileService Disk utilization high. DiskID: disk_2789, Used: 61%, Threshold: 90%, Path: /mnt/disk_2789
+ERROR   2025-01-07 20:02:48 Module: NotificationService Payment declined. TransactionID: txn_4651, Error: Invalid card number, Path: /payments/errors/txn_4651
+INFO    2025-01-07 19:59:39 Module: MonitoringService Request received. Endpoint: /api/fetch, Params: id=param_5218&status=failed, Status: 200, ResponseTime: 4546ms
+DEBUG   2025-01-07 19:47:56 Module: StorageService Data aggregation completed. AggregatedRows: 8248, FilePath: /data/processed/processed_9151
+WARNING 2025-01-07 19:40:49 Module: StorageService Deprecated API usage detected. Endpoint: /api/fetch, UserAgent: PostmanRuntime/7.29.0
+DEBUG   2025-01-07 19:24:14 Module: PaymentGateway Starting batch processing. BatchID: batch_5229, SourcePath: /data/source/folder_3557/file_3182.log, TargetPath: /data/target/folder_8503/file_3008.log
+ERROR   2025-01-07 20:00:17 Module: PaymentGateway Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_1451
+DEBUG   2025-01-07 19:53:04 Module: StorageService Starting batch processing. BatchID: batch_9840, SourcePath: /data/source/folder_2152/file_3277.log, TargetPath: /data/target/folder_5591/file_2673.log
+ERROR   2025-01-07 20:02:03 Module: PaymentGateway Unauthorized login attempt detected. IP: 79.60.62.83, UserID: unknown, Endpoint: /auth/login
+ERROR   2025-01-07 19:12:41 Module: StorageService Disk write failure. DiskID: disk_9963, Sector: 4523, FilePath: /mnt/disk_9963/data/file_processed_1380
+DEBUG   2025-01-07 19:29:06 Module: CacheService Cache write. Key: key_1124, Value: 2 entries, WritePath: /cache/cache_9061/key_1124
+INFO    2025-01-07 19:05:14 Module: FileService Logout successful. UserID: 2977, SessionPath: /users/2977/sessions/session_7637
+ERROR   2025-01-07 19:21:50 Module: FileService Disk write failure. DiskID: disk_7854, Sector: 1690, FilePath: /mnt/disk_7854/data/file_processed_5738
+ERROR   2025-01-07 19:09:35 Module: AuthService Unauthorized login attempt detected. IP: 201.209.200.235, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:19:10 Module: AuthService Cache hit. Key: key_7249, CachePath: /cache/cache_3492/key_7249
+ERROR   2025-01-07 19:48:23 Module: CacheService Payment declined. TransactionID: txn_7602, Error: Invalid card number, Path: /payments/errors/txn_7602
+ERROR   2025-01-07 20:01:32 Module: MonitoringService Disk write failure. DiskID: disk_2360, Sector: 3652, FilePath: /mnt/disk_2360/data/file_processed_5223
+ERROR   2025-01-07 19:35:03 Module: DataProcessor Payment declined. TransactionID: txn_7195, Error: Invalid card number, Path: /payments/errors/txn_7195
+ERROR   2025-01-07 19:11:55 Module: CacheService Payment declined. TransactionID: txn_2446, Error: Invalid card number, Path: /payments/errors/txn_2446
+DEBUG   2025-01-07 19:19:04 Module: APIGateway Data aggregation completed. AggregatedRows: 1735, FilePath: /data/processed/processed_6327
+WARNING 2025-01-07 19:43:09 Module: StorageService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: curl/7.64.1
+WARNING 2025-01-07 19:59:29 Module: NotificationService High memory usage detected. Memory: 90%, Node: node_4776, Application: app_14
+WARNING 2025-01-07 19:47:12 Module: PaymentGateway High memory usage detected. Memory: 50%, Node: node_1457, Application: app_52
+DEBUG   2025-01-07 19:30:40 Module: DataProcessor Cache hit. Key: key_4822, CachePath: /cache/cache_6094/key_4822
+INFO    2025-01-07 19:34:50 Module: DataProcessor Request received. Endpoint: /api/submit, Params: id=param_8151&status=failed, Status: 200, ResponseTime: 2845ms
+DEBUG   2025-01-07 19:16:33 Module: NotificationService Starting batch processing. BatchID: batch_7503, SourcePath: /data/source/folder_1726/file_3812.log, TargetPath: /data/target/folder_7674/file_1535.log
+INFO    2025-01-07 19:53:03 Module: CacheService Scheduled task completed. TaskID: task_2612, Details: Clean up temp files from path /temp/folder_2266/file_9234.log
+DEBUG   2025-01-07 19:30:05 Module: SecurityService Transforming dataset. DatasetID: dataset_6285, RowsProcessed: 479
+INFO    2025-01-07 19:50:46 Module: MonitoringService Request received. Endpoint: /api/delete, Params: id=param_6180&status=failed, Status: 200, ResponseTime: 3650ms
+INFO    2025-01-07 19:14:06 Module: AuthService Request received. Endpoint: /api/submit, Params: id=param_2422&status=pending, Status: 200, ResponseTime: 3491ms
+ERROR   2025-01-07 19:20:49 Module: MonitoringService Disk read failure. DiskID: disk_5725, Sector: 2907, FilePath: /mnt/disk_5725/data/file_processed_4653
+ERROR   2025-01-07 19:25:25 Module: StorageService Payment declined. TransactionID: txn_6649, Error: Invalid card number, Path: /payments/errors/txn_6649
+WARNING 2025-01-07 19:23:04 Module: CacheService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: curl/7.64.1
+INFO    2025-01-07 19:18:30 Module: MonitoringService Request received. Endpoint: /api/submit, Params: id=param_1720&status=pending, Status: 200, ResponseTime: 136ms
+DEBUG   2025-01-07 19:40:39 Module: NotificationService Data aggregation completed. AggregatedRows: 3355, FilePath: /data/processed/processed_8457
+ERROR   2025-01-07 19:26:43 Module: FileService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_3281
+WARNING 2025-01-07 19:31:25 Module: MonitoringService Disk utilization high. DiskID: disk_2740, Used: 11%, Threshold: 90%, Path: /mnt/disk_2740
+ERROR   2025-01-07 19:37:25 Module: PaymentGateway Payment declined. TransactionID: txn_5999, Error: Invalid card number, Path: /payments/errors/txn_5999
+WARNING 2025-01-07 20:02:41 Module: DataProcessor Disk utilization high. DiskID: disk_5639, Used: 30%, Threshold: 90%, Path: /mnt/disk_5639
+ERROR   2025-01-07 19:46:28 Module: SecurityService Disk read failure. DiskID: disk_1508, Sector: 2681, FilePath: /mnt/disk_1508/data/file_processed_6618
+INFO    2025-01-07 20:03:59 Module: CacheService Scheduled task completed. TaskID: task_8073, Details: Clean up temp files from path /temp/folder_2476/file_9234.log
+INFO    2025-01-07 19:17:02 Module: MonitoringService Metrics collected. CPU: 84%, Memory: 24%, Disk: 80%, Nodes: 36
+DEBUG   2025-01-07 19:06:06 Module: MonitoringService Starting batch processing. BatchID: batch_8432, SourcePath: /data/source/folder_6808/file_7513.log, TargetPath: /data/target/folder_4280/file_4952.log
+INFO    2025-01-07 19:34:16 Module: SchedulerService Scheduled task completed. TaskID: task_5379, Details: Clean up temp files from path /temp/folder_2077/file_5372.log
+WARNING 2025-01-07 19:44:46 Module: SecurityService Excessive login attempts. IP: 38.117.223.129, Attempts: 2, LockFile: /auth/locks/38.117.223.129
+DEBUG   2025-01-07 19:55:20 Module: AuthService Cache hit. Key: key_6691, CachePath: /cache/cache_1082/key_6691
+ERROR   2025-01-07 19:27:23 Module: StorageService Unauthorized login attempt detected. IP: 33.5.194.205, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:12:32 Module: MonitoringService Disk utilization high. DiskID: disk_4288, Used: 15%, Threshold: 90%, Path: /mnt/disk_4288
+DEBUG   2025-01-07 19:54:47 Module: SecurityService Cache hit. Key: key_4961, CachePath: /cache/cache_2361/key_4961
+DEBUG   2025-01-07 19:59:36 Module: DataProcessor Cache write. Key: key_2285, Value: 51 entries, WritePath: /cache/cache_4643/key_2285
+ERROR   2025-01-07 19:12:46 Module: CacheService Disk write failure. DiskID: disk_7099, Sector: 2562, FilePath: /mnt/disk_7099/data/file_processed_9089
+INFO    2025-01-07 19:16:10 Module: MonitoringService Logout successful. UserID: 2033, SessionPath: /users/2033/sessions/session_3211
+ERROR   2025-01-07 19:35:28 Module: MonitoringService Unauthorized login attempt detected. IP: 154.165.48.240, UserID: unknown, Endpoint: /auth/login
+INFO    2025-01-07 19:32:15 Module: DataProcessor User login successful. UserID: 9696, IP: 170.236.159.204, SessionPath: /users/9696/sessions/session_8471
+INFO    2025-01-07 19:09:31 Module: DataProcessor Metrics collected. CPU: 21%, Memory: 60%, Disk: 54%, Nodes: 10
+INFO    2025-01-07 19:34:32 Module: AuthService Scheduled task completed. TaskID: task_1597, Details: Clean up temp files from path /temp/folder_8179/file_8371.log
+WARNING 2025-01-07 19:22:23 Module: StorageService Packet loss detected. NodeID: node_9578, LossPercentage: 3.28%, Path: /network/node_9578
+DEBUG   2025-01-07 19:29:17 Module: CacheService Cache hit. Key: key_4042, CachePath: /cache/cache_2220/key_4042
+WARNING 2025-01-07 19:45:05 Module: MonitoringService High memory usage detected. Memory: 45%, Node: node_8009, Application: app_54
+ERROR   2025-01-07 19:50:05 Module: SecurityService Disk write failure. DiskID: disk_7695, Sector: 465, FilePath: /mnt/disk_7695/data/file_processed_2235
+WARNING 2025-01-07 20:03:58 Module: StorageService Packet loss detected. NodeID: node_2697, LossPercentage: 1.94%, Path: /network/node_2697
+WARNING 2025-01-07 19:37:34 Module: FileService High memory usage detected. Memory: 12%, Node: node_5334, Application: app_48
+INFO    2025-01-07 19:47:13 Module: PaymentGateway Logout successful. UserID: 9784, SessionPath: /users/9784/sessions/session_2337
+DEBUG   2025-01-07 19:46:25 Module: SecurityService Data aggregation completed. AggregatedRows: 6324, FilePath: /data/processed/processed_4234
+ERROR   2025-01-07 19:16:31 Module: CacheService Disk read failure. DiskID: disk_1829, Sector: 770, FilePath: /mnt/disk_1829/data/file_processed_7734
+INFO    2025-01-07 19:59:32 Module: CacheService User login successful. UserID: 9261, IP: 78.148.207.159, SessionPath: /users/9261/sessions/session_9910
+INFO    2025-01-07 19:32:34 Module: AuthService Request received. Endpoint: /api/submit, Params: id=param_2979&status=active, Status: 200, ResponseTime: 4839ms
+WARNING 2025-01-07 19:56:52 Module: NotificationService Disk utilization high. DiskID: disk_6895, Used: 98%, Threshold: 90%, Path: /mnt/disk_6895
+INFO    2025-01-07 19:18:03 Module: SchedulerService Scheduled task completed. TaskID: task_5624, Details: Clean up temp files from path /temp/folder_8395/file_1311.log
+ERROR   2025-01-07 19:15:21 Module: AuthService Disk read failure. DiskID: disk_8624, Sector: 4803, FilePath: /mnt/disk_8624/data/file_processed_1387
+DEBUG   2025-01-07 19:28:26 Module: AuthService Starting batch processing. BatchID: batch_2381, SourcePath: /data/source/folder_9682/file_4536.log, TargetPath: /data/target/folder_2988/file_7029.log
+ERROR   2025-01-07 19:20:17 Module: FileService Disk write failure. DiskID: disk_6444, Sector: 3467, FilePath: /mnt/disk_6444/data/file_processed_4912
+WARNING 2025-01-07 19:47:43 Module: DataProcessor Packet loss detected. NodeID: node_5895, LossPercentage: 0.31%, Path: /network/node_5895
+ERROR   2025-01-07 19:50:57 Module: AuthService Service timeout. Endpoint: /api/query, Status: 504, RetryPath: /retries/retry_9922
+INFO    2025-01-07 19:43:31 Module: MonitoringService User login successful. UserID: 9272, IP: 18.72.102.107, SessionPath: /users/9272/sessions/session_9717
+DEBUG   2025-01-07 19:48:34 Module: StorageService Cache write. Key: key_9737, Value: 87 entries, WritePath: /cache/cache_3289/key_9737
+DEBUG   2025-01-07 19:42:42 Module: MonitoringService Cache write. Key: key_9278, Value: 10 entries, WritePath: /cache/cache_1956/key_9278
+DEBUG   2025-01-07 19:49:29 Module: StorageService Data aggregation completed. AggregatedRows: 5080, FilePath: /data/processed/processed_2493
+DEBUG   2025-01-07 19:52:15 Module: CacheService Data aggregation completed. AggregatedRows: 3970, FilePath: /data/processed/processed_9786
+ERROR   2025-01-07 19:09:39 Module: NotificationService Disk read failure. DiskID: disk_6433, Sector: 512, FilePath: /mnt/disk_6433/data/file_processed_5335
+ERROR   2025-01-07 19:51:50 Module: CacheService Unauthorized login attempt detected. IP: 45.113.149.153, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:24:29 Module: MonitoringService Cache hit. Key: key_8804, CachePath: /cache/cache_7697/key_8804
+INFO    2025-01-07 19:30:12 Module: AuthService Logout successful. UserID: 2829, SessionPath: /users/2829/sessions/session_8609
+INFO    2025-01-07 19:20:49 Module: MonitoringService Scheduled task completed. TaskID: task_5003, Details: Clean up temp files from path /temp/folder_9469/file_3742.log
+DEBUG   2025-01-07 19:06:49 Module: FileService Transforming dataset. DatasetID: dataset_1394, RowsProcessed: 986
+DEBUG   2025-01-07 19:41:22 Module: SecurityService Transforming dataset. DatasetID: dataset_5694, RowsProcessed: 346
+INFO    2025-01-07 20:02:04 Module: SchedulerService Logout successful. UserID: 4606, SessionPath: /users/4606/sessions/session_4899
+INFO    2025-01-07 19:06:27 Module: SchedulerService User login successful. UserID: 9392, IP: 15.190.157.95, SessionPath: /users/9392/sessions/session_8500
+DEBUG   2025-01-07 19:40:38 Module: NotificationService Starting batch processing. BatchID: batch_1659, SourcePath: /data/source/folder_1356/file_5733.log, TargetPath: /data/target/folder_9652/file_3720.log
+ERROR   2025-01-07 19:42:32 Module: APIGateway Disk write failure. DiskID: disk_4609, Sector: 1680, FilePath: /mnt/disk_4609/data/file_processed_4512
+ERROR   2025-01-07 19:43:02 Module: NotificationService Disk read failure. DiskID: disk_2700, Sector: 2031, FilePath: /mnt/disk_2700/data/file_processed_9841
+INFO    2025-01-07 19:19:41 Module: SecurityService Scheduled task completed. TaskID: task_1359, Details: Clean up temp files from path /temp/folder_1938/file_5450.log
+WARNING 2025-01-07 19:30:21 Module: DataProcessor Packet loss detected. NodeID: node_1060, LossPercentage: 3.88%, Path: /network/node_1060
+DEBUG   2025-01-07 19:28:43 Module: FileService Starting batch processing. BatchID: batch_9843, SourcePath: /data/source/folder_6933/file_8214.log, TargetPath: /data/target/folder_8682/file_4000.log
+INFO    2025-01-07 19:43:59 Module: FileService Request received. Endpoint: /api/fetch, Params: id=param_9984&status=active, Status: 200, ResponseTime: 4607ms
+INFO    2025-01-07 19:42:27 Module: FileService Logout successful. UserID: 1573, SessionPath: /users/1573/sessions/session_6480
+WARNING 2025-01-07 20:02:21 Module: NotificationService Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+WARNING 2025-01-07 19:40:36 Module: NotificationService Deprecated API usage detected. Endpoint: /api/query, UserAgent: Mozilla/5.0
+ERROR   2025-01-07 19:23:47 Module: StorageService Disk read failure. DiskID: disk_4257, Sector: 1411, FilePath: /mnt/disk_4257/data/file_processed_7002
+WARNING 2025-01-07 19:47:09 Module: SecurityService High memory usage detected. Memory: 52%, Node: node_3204, Application: app_70
+ERROR   2025-01-07 19:24:37 Module: MonitoringService Disk write failure. DiskID: disk_7649, Sector: 3211, FilePath: /mnt/disk_7649/data/file_processed_4487
+DEBUG   2025-01-07 19:23:07 Module: PaymentGateway Cache write. Key: key_2603, Value: 97 entries, WritePath: /cache/cache_9808/key_2603
+DEBUG   2025-01-07 19:10:56 Module: APIGateway Transforming dataset. DatasetID: dataset_8509, RowsProcessed: 1423
+DEBUG   2025-01-07 19:30:12 Module: FileService Cache hit. Key: key_8788, CachePath: /cache/cache_4754/key_8788
+WARNING 2025-01-07 19:33:52 Module: MonitoringService Disk utilization high. DiskID: disk_4233, Used: 23%, Threshold: 90%, Path: /mnt/disk_4233
+DEBUG   2025-01-07 19:58:08 Module: SchedulerService Starting batch processing. BatchID: batch_1789, SourcePath: /data/source/folder_4071/file_8656.log, TargetPath: /data/target/folder_7049/file_9858.log
+INFO    2025-01-07 19:24:00 Module: SecurityService Scheduled task completed. TaskID: task_3176, Details: Clean up temp files from path /temp/folder_5818/file_2208.log
+WARNING 2025-01-07 19:54:47 Module: SchedulerService High memory usage detected. Memory: 47%, Node: node_5773, Application: app_37
+INFO    2025-01-07 19:48:25 Module: SchedulerService Request received. Endpoint: /api/fetch, Params: id=param_3186&status=active, Status: 200, ResponseTime: 4482ms
+DEBUG   2025-01-07 20:01:35 Module: AuthService Starting batch processing. BatchID: batch_8119, SourcePath: /data/source/folder_9895/file_1739.log, TargetPath: /data/target/folder_8630/file_3265.log
+INFO    2025-01-07 20:04:37 Module: FileService User login successful. UserID: 4468, IP: 140.209.45.33, SessionPath: /users/4468/sessions/session_6087
+ERROR   2025-01-07 19:07:37 Module: PaymentGateway Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_8347
+DEBUG   2025-01-07 19:30:30 Module: StorageService Starting batch processing. BatchID: batch_5528, SourcePath: /data/source/folder_5286/file_4781.log, TargetPath: /data/target/folder_3909/file_8449.log
+INFO    2025-01-07 19:06:03 Module: APIGateway Request received. Endpoint: /api/delete, Params: id=param_6603&status=active, Status: 200, ResponseTime: 2745ms
+INFO    2025-01-07 19:17:26 Module: SchedulerService User login successful. UserID: 6598, IP: 118.246.43.232, SessionPath: /users/6598/sessions/session_3703
+ERROR   2025-01-07 19:48:16 Module: PaymentGateway Unauthorized login attempt detected. IP: 74.178.234.249, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:24:22 Module: StorageService High memory usage detected. Memory: 97%, Node: node_8390, Application: app_83
+ERROR   2025-01-07 19:09:14 Module: AuthService Unauthorized login attempt detected. IP: 157.120.172.25, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:26:06 Module: FileService Packet loss detected. NodeID: node_8871, LossPercentage: 3.8%, Path: /network/node_8871
+WARNING 2025-01-07 19:27:03 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/submit, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:09:55 Module: FileService Unauthorized login attempt detected. IP: 71.181.108.20, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:41:35 Module: MonitoringService Data aggregation completed. AggregatedRows: 9124, FilePath: /data/processed/processed_7545
+INFO    2025-01-07 19:33:11 Module: StorageService Request received. Endpoint: /api/fetch, Params: id=param_5985&status=pending, Status: 200, ResponseTime: 3231ms
+ERROR   2025-01-07 19:26:45 Module: DataProcessor Disk read failure. DiskID: disk_8172, Sector: 731, FilePath: /mnt/disk_8172/data/file_processed_3817
+WARNING 2025-01-07 20:03:44 Module: DataProcessor Packet loss detected. NodeID: node_1115, LossPercentage: 3.12%, Path: /network/node_1115
+WARNING 2025-01-07 20:00:19 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+INFO    2025-01-07 19:26:36 Module: NotificationService Scheduled task completed. TaskID: task_7328, Details: Clean up temp files from path /temp/folder_7077/file_9007.log
+ERROR   2025-01-07 19:44:34 Module: MonitoringService Payment declined. TransactionID: txn_1039, Error: Invalid card number, Path: /payments/errors/txn_1039
+DEBUG   2025-01-07 20:04:16 Module: SecurityService Data aggregation completed. AggregatedRows: 9355, FilePath: /data/processed/processed_7800
+WARNING 2025-01-07 19:56:30 Module: CacheService Excessive login attempts. IP: 132.255.103.190, Attempts: 6, LockFile: /auth/locks/132.255.103.190
+INFO    2025-01-07 19:35:22 Module: SecurityService Logout successful. UserID: 5572, SessionPath: /users/5572/sessions/session_8207
+ERROR   2025-01-07 19:44:41 Module: SecurityService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_4351
+WARNING 2025-01-07 20:01:30 Module: DataProcessor Excessive login attempts. IP: 117.26.183.176, Attempts: 9, LockFile: /auth/locks/117.26.183.176
+ERROR   2025-01-07 19:09:01 Module: AuthService Payment declined. TransactionID: txn_5707, Error: Invalid card number, Path: /payments/errors/txn_5707
+DEBUG   2025-01-07 19:33:05 Module: StorageService Starting batch processing. BatchID: batch_9622, SourcePath: /data/source/folder_8801/file_1588.log, TargetPath: /data/target/folder_3482/file_7037.log
+INFO    2025-01-07 19:50:19 Module: FileService Metrics collected. CPU: 65%, Memory: 46%, Disk: 17%, Nodes: 40
+WARNING 2025-01-07 19:28:02 Module: DataProcessor Packet loss detected. NodeID: node_2090, LossPercentage: 2.51%, Path: /network/node_2090
+DEBUG   2025-01-07 19:32:43 Module: SchedulerService Cache hit. Key: key_9962, CachePath: /cache/cache_2164/key_9962
+WARNING 2025-01-07 19:40:54 Module: DataProcessor High memory usage detected. Memory: 55%, Node: node_2741, Application: app_58
+INFO    2025-01-07 19:44:09 Module: NotificationService Scheduled task completed. TaskID: task_2837, Details: Clean up temp files from path /temp/folder_6470/file_9139.log
+INFO    2025-01-07 19:41:10 Module: FileService Logout successful. UserID: 6248, SessionPath: /users/6248/sessions/session_5793
+INFO    2025-01-07 19:34:35 Module: FileService User login successful. UserID: 1740, IP: 220.12.96.110, SessionPath: /users/1740/sessions/session_3345
+WARNING 2025-01-07 19:10:24 Module: NotificationService Disk utilization high. DiskID: disk_6034, Used: 29%, Threshold: 90%, Path: /mnt/disk_6034
+INFO    2025-01-07 19:26:52 Module: NotificationService Request received. Endpoint: /api/delete, Params: id=param_9953&status=pending, Status: 200, ResponseTime: 3491ms
+INFO    2025-01-07 19:18:23 Module: APIGateway Request received. Endpoint: /api/fetch, Params: id=param_7547&status=active, Status: 200, ResponseTime: 2850ms
+WARNING 2025-01-07 19:24:27 Module: CacheService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: curl/7.64.1
+DEBUG   2025-01-07 19:11:53 Module: AuthService Transforming dataset. DatasetID: dataset_3303, RowsProcessed: 4848
+INFO    2025-01-07 19:10:53 Module: FileService Request received. Endpoint: /api/fetch, Params: id=param_8871&status=pending, Status: 200, ResponseTime: 2351ms
+DEBUG   2025-01-07 19:31:52 Module: SecurityService Cache write. Key: key_2481, Value: 3 entries, WritePath: /cache/cache_1252/key_2481
+ERROR   2025-01-07 19:55:58 Module: SchedulerService Payment declined. TransactionID: txn_3478, Error: Invalid card number, Path: /payments/errors/txn_3478
+ERROR   2025-01-07 19:05:32 Module: MonitoringService Disk read failure. DiskID: disk_4061, Sector: 554, FilePath: /mnt/disk_4061/data/file_processed_1465
+ERROR   2025-01-07 19:18:42 Module: CacheService Disk read failure. DiskID: disk_6709, Sector: 3323, FilePath: /mnt/disk_6709/data/file_processed_6226
+INFO    2025-01-07 19:08:03 Module: AuthService Logout successful. UserID: 6397, SessionPath: /users/6397/sessions/session_3319
+DEBUG   2025-01-07 19:30:46 Module: NotificationService Transforming dataset. DatasetID: dataset_7173, RowsProcessed: 1764
+ERROR   2025-01-07 19:30:29 Module: SecurityService Disk read failure. DiskID: disk_6818, Sector: 640, FilePath: /mnt/disk_6818/data/file_processed_3861
+ERROR   2025-01-07 20:02:09 Module: SchedulerService Unauthorized login attempt detected. IP: 133.39.42.133, UserID: unknown, Endpoint: /auth/login
+WARNING 2025-01-07 19:40:37 Module: NotificationService Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+WARNING 2025-01-07 19:09:39 Module: SecurityService Excessive login attempts. IP: 109.194.128.84, Attempts: 8, LockFile: /auth/locks/109.194.128.84
+WARNING 2025-01-07 19:36:45 Module: APIGateway Excessive login attempts. IP: 84.190.253.46, Attempts: 7, LockFile: /auth/locks/84.190.253.46
+ERROR   2025-01-07 19:52:01 Module: AuthService Payment declined. TransactionID: txn_1909, Error: Invalid card number, Path: /payments/errors/txn_1909
+ERROR   2025-01-07 19:54:10 Module: SchedulerService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_7159
+DEBUG   2025-01-07 19:48:22 Module: SchedulerService Cache write. Key: key_5653, Value: 71 entries, WritePath: /cache/cache_6940/key_5653
+DEBUG   2025-01-07 19:43:02 Module: NotificationService Transforming dataset. DatasetID: dataset_9417, RowsProcessed: 3464
+DEBUG   2025-01-07 19:24:47 Module: APIGateway Cache write. Key: key_1407, Value: 97 entries, WritePath: /cache/cache_5087/key_1407
+ERROR   2025-01-07 19:31:51 Module: NotificationService Unauthorized login attempt detected. IP: 32.28.224.182, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:32:25 Module: MonitoringService Data aggregation completed. AggregatedRows: 3299, FilePath: /data/processed/processed_2918
+DEBUG   2025-01-07 19:15:17 Module: MonitoringService Starting batch processing. BatchID: batch_1609, SourcePath: /data/source/folder_3694/file_3974.log, TargetPath: /data/target/folder_4376/file_6534.log
+WARNING 2025-01-07 19:19:31 Module: DataProcessor Disk utilization high. DiskID: disk_6235, Used: 47%, Threshold: 90%, Path: /mnt/disk_6235
+ERROR   2025-01-07 19:13:27 Module: MonitoringService Unauthorized login attempt detected. IP: 137.212.182.217, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:07:50 Module: AuthService Transforming dataset. DatasetID: dataset_4886, RowsProcessed: 1931
+WARNING 2025-01-07 19:57:01 Module: NotificationService High memory usage detected. Memory: 4%, Node: node_6412, Application: app_75
+INFO    2025-01-07 19:26:04 Module: DataProcessor Metrics collected. CPU: 40%, Memory: 50%, Disk: 39%, Nodes: 45
+ERROR   2025-01-07 19:41:58 Module: SchedulerService Disk read failure. DiskID: disk_9071, Sector: 4169, FilePath: /mnt/disk_9071/data/file_processed_9167
+WARNING 2025-01-07 19:09:25 Module: SchedulerService Excessive login attempts. IP: 87.90.26.58, Attempts: 5, LockFile: /auth/locks/87.90.26.58
+WARNING 2025-01-07 19:15:06 Module: FileService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+ERROR   2025-01-07 19:06:14 Module: DataProcessor Payment declined. TransactionID: txn_4715, Error: Invalid card number, Path: /payments/errors/txn_4715
+WARNING 2025-01-07 19:40:51 Module: SecurityService Disk utilization high. DiskID: disk_5186, Used: 17%, Threshold: 90%, Path: /mnt/disk_5186
+DEBUG   2025-01-07 19:11:42 Module: DataProcessor Starting batch processing. BatchID: batch_6305, SourcePath: /data/source/folder_9603/file_3513.log, TargetPath: /data/target/folder_7850/file_9672.log
+INFO    2025-01-07 20:00:34 Module: MonitoringService Metrics collected. CPU: 17%, Memory: 3%, Disk: 95%, Nodes: 50
+DEBUG   2025-01-07 19:28:46 Module: PaymentGateway Cache hit. Key: key_1838, CachePath: /cache/cache_9166/key_1838
+ERROR   2025-01-07 19:43:45 Module: MonitoringService Disk read failure. DiskID: disk_1396, Sector: 3729, FilePath: /mnt/disk_1396/data/file_processed_1849
+DEBUG   2025-01-07 19:54:02 Module: SecurityService Transforming dataset. DatasetID: dataset_4560, RowsProcessed: 612
+ERROR   2025-01-07 19:22:37 Module: MonitoringService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_5500
+DEBUG   2025-01-07 19:29:36 Module: SchedulerService Data aggregation completed. AggregatedRows: 7136, FilePath: /data/processed/processed_8907
+DEBUG   2025-01-07 19:39:26 Module: AuthService Data aggregation completed. AggregatedRows: 9187, FilePath: /data/processed/processed_2927
+DEBUG   2025-01-07 19:51:04 Module: APIGateway Starting batch processing. BatchID: batch_8340, SourcePath: /data/source/folder_6465/file_8099.log, TargetPath: /data/target/folder_1048/file_9112.log
+ERROR   2025-01-07 19:33:20 Module: MonitoringService Disk read failure. DiskID: disk_3127, Sector: 4051, FilePath: /mnt/disk_3127/data/file_processed_7199
+WARNING 2025-01-07 19:41:48 Module: NotificationService Excessive login attempts. IP: 206.224.103.242, Attempts: 3, LockFile: /auth/locks/206.224.103.242
+INFO    2025-01-07 19:16:48 Module: FileService Scheduled task completed. TaskID: task_3702, Details: Clean up temp files from path /temp/folder_2465/file_5004.log
+INFO    2025-01-07 19:52:06 Module: DataProcessor Scheduled task completed. TaskID: task_6920, Details: Clean up temp files from path /temp/folder_5703/file_3738.log
+WARNING 2025-01-07 19:28:55 Module: DataProcessor Deprecated API usage detected. Endpoint: /api/submit, UserAgent: Mozilla/5.0
+WARNING 2025-01-07 19:07:43 Module: AuthService Excessive login attempts. IP: 158.198.181.77, Attempts: 2, LockFile: /auth/locks/158.198.181.77
+WARNING 2025-01-07 19:07:16 Module: APIGateway High memory usage detected. Memory: 45%, Node: node_9069, Application: app_77
+WARNING 2025-01-07 19:11:33 Module: DataProcessor High memory usage detected. Memory: 61%, Node: node_8391, Application: app_40
+INFO    2025-01-07 19:42:44 Module: PaymentGateway Scheduled task completed. TaskID: task_1184, Details: Clean up temp files from path /temp/folder_5921/file_3786.log
+INFO    2025-01-07 19:27:49 Module: CacheService Logout successful. UserID: 8109, SessionPath: /users/8109/sessions/session_6451
+DEBUG   2025-01-07 19:06:59 Module: PaymentGateway Cache hit. Key: key_6656, CachePath: /cache/cache_2303/key_6656
+WARNING 2025-01-07 19:42:35 Module: SecurityService High memory usage detected. Memory: 43%, Node: node_3357, Application: app_8
+WARNING 2025-01-07 19:49:06 Module: CacheService Disk utilization high. DiskID: disk_4409, Used: 98%, Threshold: 90%, Path: /mnt/disk_4409
+INFO    2025-01-07 19:54:42 Module: CacheService Metrics collected. CPU: 88%, Memory: 59%, Disk: 24%, Nodes: 19
+ERROR   2025-01-07 19:48:47 Module: CacheService Payment declined. TransactionID: txn_3268, Error: Invalid card number, Path: /payments/errors/txn_3268
+ERROR   2025-01-07 19:18:25 Module: FileService Disk read failure. DiskID: disk_7513, Sector: 646, FilePath: /mnt/disk_7513/data/file_processed_6156
+ERROR   2025-01-07 19:16:48 Module: MonitoringService Disk write failure. DiskID: disk_1589, Sector: 1133, FilePath: /mnt/disk_1589/data/file_processed_3157
+WARNING 2025-01-07 19:55:43 Module: StorageService High memory usage detected. Memory: 73%, Node: node_8910, Application: app_94
+ERROR   2025-01-07 19:06:10 Module: AuthService Disk write failure. DiskID: disk_6136, Sector: 747, FilePath: /mnt/disk_6136/data/file_processed_3614
+ERROR   2025-01-07 19:34:21 Module: AuthService Disk read failure. DiskID: disk_4331, Sector: 4342, FilePath: /mnt/disk_4331/data/file_processed_1460
+WARNING 2025-01-07 19:55:19 Module: APIGateway Disk utilization high. DiskID: disk_6797, Used: 99%, Threshold: 90%, Path: /mnt/disk_6797
+WARNING 2025-01-07 19:19:58 Module: AuthService Packet loss detected. NodeID: node_9553, LossPercentage: 0.45%, Path: /network/node_9553
+WARNING 2025-01-07 20:01:21 Module: CacheService Packet loss detected. NodeID: node_8116, LossPercentage: 1.76%, Path: /network/node_8116
+ERROR   2025-01-07 19:54:06 Module: SchedulerService Disk write failure. DiskID: disk_9997, Sector: 4401, FilePath: /mnt/disk_9997/data/file_processed_6514
+WARNING 2025-01-07 19:14:30 Module: SchedulerService Excessive login attempts. IP: 37.76.98.200, Attempts: 4, LockFile: /auth/locks/37.76.98.200
+WARNING 2025-01-07 19:45:52 Module: SchedulerService Packet loss detected. NodeID: node_9041, LossPercentage: 1.88%, Path: /network/node_9041
+ERROR   2025-01-07 20:01:18 Module: PaymentGateway Payment declined. TransactionID: txn_5851, Error: Invalid card number, Path: /payments/errors/txn_5851
+WARNING 2025-01-07 19:41:55 Module: SecurityService Deprecated API usage detected. Endpoint: /api/query, UserAgent: curl/7.64.1
+WARNING 2025-01-07 19:41:41 Module: NotificationService Deprecated API usage detected. Endpoint: /api/query, UserAgent: PostmanRuntime/7.29.0
+ERROR   2025-01-07 19:54:47 Module: APIGateway Disk write failure. DiskID: disk_9220, Sector: 1443, FilePath: /mnt/disk_9220/data/file_processed_6480
+DEBUG   2025-01-07 19:49:21 Module: SecurityService Starting batch processing. BatchID: batch_8702, SourcePath: /data/source/folder_4574/file_3112.log, TargetPath: /data/target/folder_1457/file_1249.log
+DEBUG   2025-01-07 19:56:27 Module: StorageService Cache write. Key: key_5207, Value: 29 entries, WritePath: /cache/cache_2889/key_5207
+INFO    2025-01-07 19:11:23 Module: DataProcessor User login successful. UserID: 3927, IP: 79.9.15.91, SessionPath: /users/3927/sessions/session_2710
+INFO    2025-01-07 20:04:43 Module: FileService Scheduled task completed. TaskID: task_1228, Details: Clean up temp files from path /temp/folder_3908/file_5617.log
+DEBUG   2025-01-07 19:12:52 Module: MonitoringService Cache hit. Key: key_9666, CachePath: /cache/cache_9608/key_9666
+WARNING 2025-01-07 20:02:44 Module: SecurityService Excessive login attempts. IP: 55.225.107.54, Attempts: 9, LockFile: /auth/locks/55.225.107.54
+ERROR   2025-01-07 20:04:41 Module: CacheService Payment declined. TransactionID: txn_8640, Error: Invalid card number, Path: /payments/errors/txn_8640
+INFO    2025-01-07 19:45:24 Module: DataProcessor Logout successful. UserID: 6922, SessionPath: /users/6922/sessions/session_3526
+INFO    2025-01-07 20:02:20 Module: AuthService Logout successful. UserID: 6623, SessionPath: /users/6623/sessions/session_9641
+DEBUG   2025-01-07 19:32:01 Module: MonitoringService Starting batch processing. BatchID: batch_7749, SourcePath: /data/source/folder_2525/file_1923.log, TargetPath: /data/target/folder_6635/file_6401.log
+ERROR   2025-01-07 19:37:46 Module: NotificationService Service timeout. Endpoint: /api/fetch, Status: 504, RetryPath: /retries/retry_7125
+WARNING 2025-01-07 19:20:17 Module: PaymentGateway Deprecated API usage detected. Endpoint: /api/submit, UserAgent: PostmanRuntime/7.29.0
+DEBUG   2025-01-07 19:27:07 Module: NotificationService Cache write. Key: key_2616, Value: 62 entries, WritePath: /cache/cache_9569/key_2616
+INFO    2025-01-07 19:31:05 Module: AuthService User login successful. UserID: 3810, IP: 152.192.141.148, SessionPath: /users/3810/sessions/session_7896
+INFO    2025-01-07 19:34:30 Module: PaymentGateway User login successful. UserID: 7341, IP: 227.104.227.74, SessionPath: /users/7341/sessions/session_8440
+INFO    2025-01-07 19:16:37 Module: SecurityService Request received. Endpoint: /api/query, Params: id=param_7059&status=pending, Status: 200, ResponseTime: 2239ms
+ERROR   2025-01-07 19:57:43 Module: AuthService Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_1645
+DEBUG   2025-01-07 19:12:47 Module: PaymentGateway Data aggregation completed. AggregatedRows: 7926, FilePath: /data/processed/processed_8282
+WARNING 2025-01-07 19:09:19 Module: DataProcessor Packet loss detected. NodeID: node_7489, LossPercentage: 4.28%, Path: /network/node_7489
+WARNING 2025-01-07 19:57:42 Module: MonitoringService Deprecated API usage detected. Endpoint: /api/delete, UserAgent: PostmanRuntime/7.29.0
+ERROR   2025-01-07 19:36:54 Module: AuthService Unauthorized login attempt detected. IP: 136.206.174.223, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:17:36 Module: CacheService Cache hit. Key: key_2041, CachePath: /cache/cache_9253/key_2041
+INFO    2025-01-07 19:07:33 Module: StorageService Logout successful. UserID: 9267, SessionPath: /users/9267/sessions/session_3375
+ERROR   2025-01-07 19:18:21 Module: APIGateway Disk read failure. DiskID: disk_5218, Sector: 914, FilePath: /mnt/disk_5218/data/file_processed_2213
+ERROR   2025-01-07 19:08:56 Module: SecurityService Disk write failure. DiskID: disk_6222, Sector: 4032, FilePath: /mnt/disk_6222/data/file_processed_4120
+INFO    2025-01-07 19:25:05 Module: AuthService Metrics collected. CPU: 12%, Memory: 81%, Disk: 66%, Nodes: 45
+INFO    2025-01-07 19:53:02 Module: MonitoringService User login successful. UserID: 9202, IP: 78.53.251.112, SessionPath: /users/9202/sessions/session_8193
+WARNING 2025-01-07 19:29:19 Module: MonitoringService Packet loss detected. NodeID: node_3057, LossPercentage: 0.21%, Path: /network/node_3057
+ERROR   2025-01-07 19:40:21 Module: PaymentGateway Disk read failure. DiskID: disk_9985, Sector: 4575, FilePath: /mnt/disk_9985/data/file_processed_9333
+INFO    2025-01-07 19:15:31 Module: NotificationService Request received. Endpoint: /api/submit, Params: id=param_8848&status=active, Status: 200, ResponseTime: 3710ms
+DEBUG   2025-01-07 19:07:30 Module: CacheService Transforming dataset. DatasetID: dataset_3369, RowsProcessed: 4411
+WARNING 2025-01-07 19:31:26 Module: FileService Packet loss detected. NodeID: node_5617, LossPercentage: 0.7%, Path: /network/node_5617
+INFO    2025-01-07 19:08:08 Module: SecurityService Metrics collected. CPU: 44%, Memory: 48%, Disk: 56%, Nodes: 18
+INFO    2025-01-07 19:26:35 Module: CacheService User login successful. UserID: 6048, IP: 213.147.152.30, SessionPath: /users/6048/sessions/session_8736
+INFO    2025-01-07 19:28:05 Module: SecurityService User login successful. UserID: 6648, IP: 246.119.107.72, SessionPath: /users/6648/sessions/session_3366
+INFO    2025-01-07 19:36:49 Module: SecurityService Request received. Endpoint: /api/query, Params: id=param_6214&status=pending, Status: 200, ResponseTime: 1548ms
+INFO    2025-01-07 19:55:35 Module: SchedulerService Metrics collected. CPU: 61%, Memory: 13%, Disk: 79%, Nodes: 43
+ERROR   2025-01-07 19:52:01 Module: PaymentGateway Unauthorized login attempt detected. IP: 248.116.6.118, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:56:39 Module: CacheService Transforming dataset. DatasetID: dataset_7635, RowsProcessed: 1187
+WARNING 2025-01-07 19:17:06 Module: SecurityService Disk utilization high. DiskID: disk_2060, Used: 4%, Threshold: 90%, Path: /mnt/disk_2060
+DEBUG   2025-01-07 19:40:57 Module: MonitoringService Cache write. Key: key_5958, Value: 10 entries, WritePath: /cache/cache_2461/key_5958
+INFO    2025-01-07 19:58:12 Module: FileService Metrics collected. CPU: 13%, Memory: 39%, Disk: 85%, Nodes: 21
+DEBUG   2025-01-07 19:07:22 Module: FileService Cache hit. Key: key_8442, CachePath: /cache/cache_1861/key_8442
+INFO    2025-01-07 19:41:06 Module: APIGateway Logout successful. UserID: 9713, SessionPath: /users/9713/sessions/session_5662
+ERROR   2025-01-07 19:37:10 Module: DataProcessor Service timeout. Endpoint: /api/delete, Status: 504, RetryPath: /retries/retry_1110
+ERROR   2025-01-07 19:51:28 Module: SchedulerService Disk read failure. DiskID: disk_2020, Sector: 3016, FilePath: /mnt/disk_2020/data/file_processed_6646
+ERROR   2025-01-07 19:36:02 Module: DataProcessor Disk read failure. DiskID: disk_6950, Sector: 2102, FilePath: /mnt/disk_6950/data/file_processed_6812
+DEBUG   2025-01-07 19:30:17 Module: MonitoringService Transforming dataset. DatasetID: dataset_1422, RowsProcessed: 4404
+DEBUG   2025-01-07 19:49:06 Module: AuthService Data aggregation completed. AggregatedRows: 8006, FilePath: /data/processed/processed_5486
+ERROR   2025-01-07 19:08:39 Module: PaymentGateway Unauthorized login attempt detected. IP: 127.44.56.154, UserID: unknown, Endpoint: /auth/login
+DEBUG   2025-01-07 19:56:54 Module: SecurityService Transforming dataset. DatasetID: dataset_8032, RowsProcessed: 3004
+ERROR   2025-01-07 19:08:00 Module: SchedulerService Service timeout. Endpoint: /api/submit, Status: 504, RetryPath: /retries/retry_9508
+DEBUG   2025-01-07 19:58:11 Module: APIGateway Transforming dataset. DatasetID: dataset_2235, RowsProcessed: 1298
