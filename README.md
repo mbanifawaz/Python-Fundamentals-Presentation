@@ -8,7 +8,7 @@
    - [Python Fundamentals Presentation Repo](https://github.com/mbanifawaz/Python-Fundamentals-Presentation)
 
 3. **Instructor's LinkedIn Profile:**
-   - [Eng Munes Bani Fawaz LinkedIn](https://www.linkedin.com/in/munes-bani-fawaz-799151204/)
+   - [Munes Bani Fawaz LinkedIn](https://www.linkedin.com/in/munes-bani-fawaz-799151204/)
 
 4. **Lambda Functions Resources:**
    - [GeeksforGeeks - Python Lambda Functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
