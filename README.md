@@ -15,9 +15,6 @@
    - [W3Schools - Python Lambda](https://www.w3schools.com/python/python_lambda.asp)
 
 5. **Lecture Video:**
-      - <a href="https://github.com/mbanifawaz/Python-Fundamentals-Presentation/blob/main/Lecture.mp4?raw=true" target="_blank">Download the Lecture Video</a>
-
-5. **Lecture Video:**
    - <a href="https://github.com/mbanifawaz/Python-Fundamentals-Presentation/blob/main/Lecture.mp4?raw=true" target="_blank">Download the Lecture Video</a>
 
 6. **Presentation PDF:**
